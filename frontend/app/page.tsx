@@ -5,8 +5,6 @@ import Stats from "@/components/stats"
 import Features from "@/components/features"
 import FAQ from "@/components/faq"
 import Footer from "@/components/footer"
-import ReportsSection from "@/components/reports-section"
-import RaiseIssueHome from "@/components/raise-issue-home"
 import HomepageTour from "@/components/homepage-tour"
 
 export default function Home() {

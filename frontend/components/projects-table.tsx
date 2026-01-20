@@ -3,7 +3,6 @@
 import React, { useState } from 'react';
 import { Project, SortField, SortOrder } from '@/lib/types';
 import RequestClarificationModal from '@/components/request-clarification-modal';
-import UploadUCModal from '@/components/upload-uc-modal';
 
 interface ProjectsTableProps {
   projects: Project[];
@@ -14,7 +13,6 @@ interface ProjectsTableProps {
 export default function ProjectsTable({ projects, onSort, currentSort }: ProjectsTableProps) {
   const [selectedProject, setSelectedProject] = useState<Project | null>(null);
   const [showClarificationModal, setShowClarificationModal] = useState(false);
-  const [showUploadModal, setShowUploadModal] = useState(false);
 
   const handleSort = (field: SortField) => {
     if (currentSort?.field === field) {
@@ -246,19 +244,6 @@ export default function ProjectsTable({ projects, onSort, currentSort }: Project
             onSubmit={(message: string) => {
               console.log('Clarification requested:', message);
               setShowClarificationModal(false);
-              setSelectedProject(null);
-            }}
-          />
-          <UploadUCModal
-            isOpen={showUploadModal}
-            onClose={() => {
-              setShowUploadModal(false);
-              setSelectedProject(null);
-            }}
-            project={selectedProject}
-            onUpload={(file: File) => {
-              console.log('UC uploaded:', file.name);
-              setShowUploadModal(false);
               setSelectedProject(null);
             }}
           />
