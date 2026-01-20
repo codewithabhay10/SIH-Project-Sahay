@@ -101,7 +101,7 @@ export default function CentralDashboard() {
       try {
         setLoadingCentral(true);
         // use backend host/port used in development; change if needed in production
-        const res = await fetch("http://localhost:8080/api/central");
+        const res = await fetch("http://localhost:1604/api/central");
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const body = await res.json();
         const central = body?.central || {};

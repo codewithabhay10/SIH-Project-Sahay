@@ -16,7 +16,7 @@ import {
 } from "@/lib/types";
 
 export default function SubmitProposalPage() {
-  const API_BASE = "http://localhost:8080/api";
+  const API_BASE = process.env.NEXT_PUBLIC_API_BASE || "http://localhost:1604/api";
   const getToken = () =>
     typeof window !== "undefined" ? localStorage.getItem("token") || "" : "";
 

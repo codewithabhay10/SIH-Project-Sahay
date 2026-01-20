@@ -176,7 +176,7 @@ export default function IncomeCertificateUpload() {
       
       // API base can be configured via `NEXT_PUBLIC_API_BASE` env var.
       // Defaults to the backend's default port (8080) used in `backend/.env`.
-      const API_BASE = process.env.NEXT_PUBLIC_API_BASE || "http://localhost:8080/api";
+      const API_BASE = process.env.NEXT_PUBLIC_API_BASE || "http://localhost:1604/api";
       const res = await fetch(`${API_BASE}/check/doc-check`, {
         method: "POST",
         body: formData,
