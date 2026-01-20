@@ -20,13 +20,7 @@ export default function SignupPage() {
     mobile: "",
     password: "",
     confirmPassword: "",
-    role: "beneficary" as
-      | "mosje"
-      | "state"
-      | "ia"
-      | "pacc"
-      | "sna"
-      | "beneficary",
+    role: "ministry" as const,
   });
   const [error, setError] = useState("");
   const [isLoading, setIsLoading] = useState(false);
@@ -474,46 +468,8 @@ export default function SignupPage() {
               </div>
             </div>
 
-            {/* Role Selector */}
-            <div className="flex flex-col gap-2">
-              <label
-                style={{
-                  fontFamily: "Inter, sans-serif",
-                  fontWeight: 500,
-                  fontSize: "14px",
-                  lineHeight: "17px",
-                  color: "#535567",
-                }}
-              >
-                {t('signup.role')}<span style={{ color: "#EA9000" }}>*</span>
-              </label>
-              <select
-                value={formData.role}
-                onChange={(e) =>
-                  setFormData({ ...formData, role: e.target.value as any })
-                }
-                style={{
-                  padding: "9px 12px",
-                  background: "#FFFFFF",
-                  border: "1px solid #E9E9F0",
-                  borderRadius: "6px",
-                  fontFamily: "Inter, sans-serif",
-                  fontWeight: 400,
-                  fontSize: "12px",
-                  lineHeight: "15px",
-                  color: "#737373",
-                }}
-                required
-                disabled={isLoading}
-              >
-                <option value="mosje">Ministry (MoSJE)</option>
-                <option value="state">State</option>
-                <option value="sna">SNA</option>
-                <option value="ia">IA</option>
-                <option value="pacc">PACC</option>
-                <option value="beneficary">Beneficiary</option>
-              </select>
-            </div>
+            {/* Role is automatically set to Ministry */}
+            <input type="hidden" name="role" value="ministry" />
 
             {/* Submit Button */}
             <button

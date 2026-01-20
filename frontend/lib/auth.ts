@@ -129,7 +129,7 @@ export function getDashboardRoute(user: User): string {
     case "state":
       return `/dashboard/state/${user.stateId || "MH"}`;
     case "ia":
-      return `/dashboard/ia/${user.iaId || "IA001"}`;
+      return "/dashboard/central"; // Redirect IA to central dashboard
     case "pacc":
       return "/proposals";
     case "sna":

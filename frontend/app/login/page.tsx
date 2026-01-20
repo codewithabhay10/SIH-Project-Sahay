@@ -7,14 +7,7 @@ import { useAuth } from "@/components/auth-provider"
 import { getDashboardRoute } from "@/lib/auth"
 import { getTranslation } from "@/lib/translations"
 
-const roles = [
-  { value: "ministry", label: "Ministry" },
-  { value: "pacc", label: "PACC" },
-  { value: "state", label: "State" },
-  { value: "sna", label: "SNA" },
-  { value: "ia", label: "IA" },
-  { value: "beneficiary", label: "Beneficiary" },
-]
+// Ministry-only login portal
 
 export default function LoginPage() {
   const router = useRouter()
