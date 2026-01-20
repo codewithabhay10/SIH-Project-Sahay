@@ -61,8 +61,8 @@ export const translations = {
           description: "Machine learning ensures accurate beneficiary identification and reduces fraud."
         },
         {
-          title: "Blockchain Security",
-          description: "Immutable records on Fabric-like ledgers guarantee transparency and tamper resistance."
+          title: "Multi-layer Protection",
+          description: "End-to-end encryption and role-based access ensure data privacy and security."
         }
       ]
     },

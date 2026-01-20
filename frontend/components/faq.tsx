@@ -48,14 +48,12 @@ export default function FAQ() {
   return (
     <section id="faq" className="py-24 px-6 relative">
       <div className="max-w-7xl mx-auto">
-        {/* Background Container */}
+        {/* Content Container */}
         <div
           className="relative rounded-3xl overflow-hidden p-12"
           style={{
-            backgroundImage:
-              "url(https://framerusercontent.com/images/gDTSJhM46wbHL90G2IUodOW4uuY.png?width=1988&height=1446)",
-            backgroundSize: "cover",
-            backgroundPosition: "center",
+            backgroundColor: "rgba(255, 255, 255, 0.15)",
+            backdropFilter: "blur(10px)",
           }}
         >
           <div className="max-w-4xl mx-auto space-y-12">

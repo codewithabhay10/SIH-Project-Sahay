@@ -61,7 +61,7 @@ export default function VideoSection() {
   };
 
   return (
-    <section className="w-full py-8 md:py-12" style={{ backgroundColor: "#F5E6D3" }}>
+    <section className="w-full py-8 md:py-12">
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         {/* Section Header */}
         <div className="text-center mb-6 md:mb-8">
@@ -92,9 +92,10 @@ export default function VideoSection() {
             muted={isMuted}
             loop
             playsInline
+            preload="metadata"
             onClick={togglePlay}
           >
-            <source src="/WhatsApp Video 2025-12-09 at 17.59.45_c3e09a07.mp4" type="video/mp4" />
+            <source src="/WhatsApp Video 2025-12-09 at 17.59.45_c3e09a07.mp4#t=11" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
 

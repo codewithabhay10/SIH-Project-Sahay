@@ -157,28 +157,6 @@ const MENU_ITEMS = [
     href: "/projects/PROJ-001",
   },
   {
-    title: "UC & Reports",
-    icon: (
-      <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
-        <path d="M11.6667 1.66667H5C4.55797 1.66667 4.13405 1.84226 3.82149 2.15482C3.50893 2.46738 3.33333 2.8913 3.33333 3.33333V16.6667C3.33333 17.1087 3.50893 17.5326 3.82149 17.8452C4.13405 18.1577 4.55797 18.3333 5 18.3333H15C15.442 18.3333 15.866 18.1577 16.1785 17.8452C16.4911 17.5326 16.6667 17.1087 16.6667 16.6667V6.66667L11.6667 1.66667Z" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-        <path d="M11.6667 1.66667V6.66667H16.6667" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-        <path d="M7.5 12.5L9.16667 14.1667L12.5 10.8333" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-      </svg>
-    ),
-    href: "/reports/view",
-  },
-  {
-    title: "Social Audit",
-    icon: (
-      <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
-        <rect x="5" y="1.66667" width="6.66667" height="3.33333" rx="0.833333" stroke="currentColor" strokeWidth="1.5"/>
-        <path d="M13.3333 3.33333H15C15.442 3.33333 15.866 3.50893 16.1785 3.82149C16.4911 4.13405 16.6667 4.55797 16.6667 5V16.6667C16.6667 17.1087 16.4911 17.5326 16.1785 17.8452C15.866 18.1577 15.442 18.3333 15 18.3333H5C4.55797 18.3333 4.13405 18.1577 3.82149 17.8452C3.50893 17.5326 3.33333 17.1087 3.33333 16.6667V5C3.33333 4.55797 3.50893 4.13405 3.82149 3.82149C4.13405 3.50893 4.55797 3.33333 5 3.33333H6.66667" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-        <path d="M7.5 11.6667L9.16667 13.3333L12.5 10" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-      </svg>
-    ),
-    href: "/reports/view",
-  },
-  {
     title: "All NGOs",
     icon: (
       <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
@@ -189,16 +167,6 @@ const MENU_ITEMS = [
       </svg>
     ),
     href: "/dashboard/central/all-ngo",
-  },
-  {
-    title: "Raise Issue",
-    icon: (
-      <svg width="20" height="20" viewBox="0 0 20 20" fill="none">
-        <path d="M17.5 5.83333L10 10.8333L2.5 5.83333" stroke="currentColor" strokeWidth="1.5" strokeLinecap="round" strokeLinejoin="round"/>
-        <rect x="2.5" y="3.33333" width="15" height="13.3333" rx="1.66667" stroke="currentColor" strokeWidth="1.5"/>
-      </svg>
-    ),
-    href: "/raise-issue",
   },
 ];
 
@@ -233,9 +201,8 @@ function Sidebar() {
   // Memoize active state checks
   const activeStates = useMemo(() => {
     return MENU_ITEMS.map(item => {
-      const isExactMatch = pathname === item.href;
-      const isChildMatch = pathname.startsWith(item.href + '/');
-      return isExactMatch || isChildMatch;
+      // Exact match only - don't highlight parent routes when on child pages
+      return pathname === item.href;
     });
   }, [pathname]);
 

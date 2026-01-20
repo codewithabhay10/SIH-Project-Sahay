@@ -39,20 +39,6 @@ export default function Hero() {
 
   return (
     <section className="relative min-h-screen flex flex-col items-center justify-center pt-20 overflow-hidden">
-      {/* Background Image */}
-      <div className="absolute inset-0 w-full h-full">
-        <img
-          decoding="auto"
-          width="1280"
-          height="831"
-          sizes="100vw"
-          srcSet="https://framerusercontent.com/images/8RXP9ras3Ou98vMlCD4tGy3nJDE.png?scale-down-to=512&width=1280&height=831 512w,https://framerusercontent.com/images/8RXP9ras3Ou98vMlCD4tGy3nJDE.png?scale-down-to=1024&width=1280&height=831 1024w,https://framerusercontent.com/images/8RXP9ras3Ou98vMlCD4tGy3nJDE.png?width=1280&height=831 1280w"
-          src="https://framerusercontent.com/images/8RXP9ras3Ou98vMlCD4tGy3nJDE.png?width=1280&height=831"
-          alt="background"
-          className="w-full h-full object-cover object-center"
-        />
-      </div>
-
       {/* Decorative fan element */}
       <div className="absolute left-0 top-1/4 w-96 h-96 opacity-40 animate-float">
         <svg viewBox="0 0 200 200" className="w-full h-full">

@@ -377,7 +377,6 @@ export default function BeneficiaryVerifyPage() {
               <h1 className="text-3xl font-bold text-[#2C3E50]">
                 All Beneficiaries
               </h1>
-              <p className="text-gray-600 mt-1">Imported from users.json</p>
             </div>
           </div>
 

@@ -11,7 +11,16 @@ import HomepageTour from "@/components/homepage-tour"
 
 export default function Home() {
   return (
-    <main className="min-h-screen" style={{ backgroundColor: "#F5E6D3" }}>
+    <main 
+      className="min-h-screen relative"
+      style={{ 
+        backgroundImage: "url('https://framerusercontent.com/images/8RXP9ras3Ou98vMlCD4tGy3nJDE.png?width=1280&height=831')",
+        backgroundSize: "cover",
+        backgroundPosition: "center",
+        backgroundAttachment: "fixed",
+        backgroundColor: "#F5E6D3"
+      }}
+    >
       <Header />
       <Hero />
       <VideoSection />

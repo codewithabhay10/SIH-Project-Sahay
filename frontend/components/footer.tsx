@@ -35,8 +35,9 @@ export default function Footer() {
         <div
           className="rounded-[40px] p-12"
           style={{
-            border: "1px solid rgb(237, 239, 243)",
-            backgroundColor: "rgb(255, 255, 255)",
+            border: "1px solid rgba(237, 239, 243, 0.5)",
+            backgroundColor: "rgba(255, 255, 255, 0.85)",
+            backdropFilter: "blur(10px)",
             opacity: 1,
           }}
         >
