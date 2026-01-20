@@ -1,0 +1,128 @@
+{
+    "financialYears": [
+        "2025-2026",
+        "2026-2027"
+    ],
+    "projectInformation": {
+        "title": "SC Mahila Dairy & Food Processing Cluster",
+        "description": "Comprehensive Livelihood Project integrating Dairy, Milk Collection Center, and Food Processing for SC rural women.",
+        "objectives": "To enhance the income of 500 SC BPL women through professional dairying, milk collection, value addition, skill training, cluster-level infrastructure, and asset support.",
+        "targetGroup": "SC BPL Women"
+    },
+    "interventionTypes": [
+        "skill_development",
+        "infrastructure_development",
+        "income_generation"
+    ],
+    "skillDevelopment": {
+        "isActive": true,
+        "sectionByYear": {
+            "2025-2026": {
+                "executingAgencyIdentified": "Yes",
+                "skillType": "Animal Husbandry, Food Processing (Dairy)",
+                "isSkillInstituteIdentified": "Yes",
+                "courseName": "Dairy Farm Management & Milk Value Addition Technician",
+                "beneficiaryBreakup": [
+                    {
+                        "beneficiaries": "500",
+                        "fundsProposedGrantInAid": "₹50,00,000",
+                        "anticipatedExpenditure": "₹50,00,000"
+                    }
+                ],
+                "declarations": {
+                    "sqfCompliant": "Yes",
+                    "commonNormsCompliant": "Yes"
+                }
+            },
+            "2026-2027": {
+                "executingAgencyIdentified": "Yes",
+                "skillType": "Animal Husbandry, Food Processing (Dairy)",
+                "isSkillInstituteIdentified": "Yes",
+                "courseName": "Follow-up Training for Dairy Operations",
+                "beneficiaryBreakup": [
+                    {
+                        "beneficiaries": "500",
+                        "fundsProposedGrantInAid": "₹25,00,000",
+                        "anticipatedExpenditure": "₹25,00,000"
+                    }
+                ],
+                "declarations": {
+                    "sqfCompliant": "Yes",
+                    "commonNormsCompliant": "Yes"
+                }
+            }
+        }
+    },
+    "infrastructureDevelopment": {
+        "isActive": true,
+        "sectionByYear": {
+            "2025-2026": {
+                "areaType": "Rural",
+                "typeOfInfrastructure": "Milk Chilling & Collection Center",
+                "subDomain": "Dairy Cluster Support Infrastructure",
+                "infrastructureDescription": "Construction of Milk Chilling and Collection Center for food processing and value addition for dairy cluster women.",
+                "costEstimates": [
+                    {
+                        "head": "Construction Cost",
+                        "amount": "₹200,00,000"
+                    }
+                ],
+                "otherSchemeFunds": {
+                    "fundsFromOtherSchemes": "₹600,00,000",
+                    "fundsFromGrantInAid": "₹200,00,000"
+                },
+                "scBeneficiaryCount": "2500",
+                "declarations": {
+                    "infraUsefulForSC": "Yes"
+                }
+            }
+        }
+    },
+    "incomeGeneration": {
+        "isActive": true,
+        "sectionByYear": {
+            "2025-2026": {
+                "domain": "Dairy",
+                "subdomain": "Milch Cattle Support, Cattle Feed",
+                "executingAgencyIdentified": "Yes",
+                "beneficiaries": "500",
+                "costPerBeneficiary": "₹100000",
+                "financials": {
+                    "loanFromBank": "₹40000",
+                    "beneficiaryContribution": "₹10000",
+                    "privateContribution": "₹0",
+                    "grantInAid": "₹50000"
+                },
+                "declarations": {
+                    "assetOwnedByBeneficiary": "Yes"
+                }
+            },
+            "2026-2027": {
+                "domain": "Dairy",
+                "subdomain": "Milch Cattle Follow-up Support",
+                "executingAgencyIdentified": "Yes",
+                "beneficiaries": "500",
+                "costPerBeneficiary": "₹0",
+                "financials": {
+                    "loanFromBank": "₹0",
+                    "beneficiaryContribution": "₹0",
+                    "privateContribution": "₹0",
+                    "grantInAid": "₹0"
+                },
+                "declarations": {
+                    "secondPhaseNoAssetCost": "Yes"
+                }
+            }
+        }
+    },
+    "adminCosts": {
+        "2025-2026": {
+            "adminExpensePercent": "4%",
+            "adminExpenseAmount": "₹20,00,000"
+        },
+        "2026-2027": {
+            "adminExpensePercent": "4%",
+            "adminExpenseAmount": "₹1,00,000"
+        }
+    }
+}

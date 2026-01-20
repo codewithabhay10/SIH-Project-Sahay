@@ -1,0 +1,34 @@
+# ============================================================================
+# Advanced Translation Pipeline - Backend Dependencies
+# ============================================================================
+
+# FastAPI framework and ASGI server
+fastapi==0.109.0
+uvicorn[standard]==0.27.0
+
+# Environment variables management
+python-dotenv==1.0.0
+
+# HTTP requests for Groq API
+requests==2.31.0
+
+# Translation services
+deep-translator==1.11.4
+
+# Machine Learning and Embeddings
+sentence-transformers==2.3.1
+# PyTorch CPU-only version (better compatibility on Windows)
+--extra-index-url https://download.pytorch.org/whl/cpu
+torch==2.1.2+cpu
+torchvision==0.16.2+cpu
+torchaudio==2.1.2+cpu
+
+# Similarity calculation
+scikit-learn==1.4.0
+numpy==1.26.3
+
+# Data validation (comes with FastAPI but explicitly listed)
+pydantic==2.5.3
+
+# Optional but recommended for production
+python-multipart==0.0.6  # For form data handling

@@ -1,0 +1,32 @@
+[
+  {
+    "issue": "Funds not credited despite approval Can I change project type?",
+    "issue_id": "d05587f8-f0de-47ca-8f78-8ce24eeff696",
+    "cluster": 0,
+    "count": 49
+  },
+  {
+    "issue": "Mismatch in Aadhaar and account name Do I need to reapply next year?",
+    "issue_id": "f0d17d99-2f7f-4cf0-8deb-ed5031948ec5",
+    "cluster": 1,
+    "count": 106
+  },
+  {
+    "issue": "Upload option not working I forgot my registration number.",
+    "issue_id": "217d35f6-d082-4327-834a-edb2f3eb395a",
+    "cluster": 2,
+    "count": 52
+  },
+  {
+    "issue": "Application rejected without reason How to apply for second installment?",
+    "issue_id": "1869adde-03be-45e3-9a7e-005c5522fcb0",
+    "cluster": 3,
+    "count": 68
+  },
+  {
+    "issue": "Delay in payment verification When will funds be credited?",
+    "issue_id": "1c074294-f389-4db9-800e-d07d5cc6a3f8",
+    "cluster": 4,
+    "count": 44
+  }
+]

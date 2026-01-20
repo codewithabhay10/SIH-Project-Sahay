@@ -1,0 +1,53 @@
+open ai : YOUR_OPENAI_API_KEY_HERE
+
+gemini key : YOUR_GEMINI_API_KEY_HERE
+
+PHASE 8: FIRST TEST - Backend Only (10 mins)
+Step 8.1: Run the server
+
+In VS Code Terminal:
+
+
+python3 -m venv venv
+source venv/bin/activate
+
+bash
+uvicorn main:app --reload --host 127.0.0.1 --port 8000
+You should see:
+
+text
+INFO:     Uvicorn running on http://127.0.0.1:8000
+Step 8.2: Test in browser
+
+Open: http://127.0.0.1:8000/docs
+
+Test 1: Health check
+Click GET / → Try it → Execute
+Should show: {"status":"PM-AJAY Chatbot running","admin_key":"hackathon123"}
+
+Test 2: Add fund update
+Click POST /official/update-funds → Try it →
+
+json
+---------------
+{
+  "project_code": "UP-GIA-001",
+  "update_date": "2025-12-01",
+  "event_type": "release",
+  "amount": 5000000,
+  "description": "Second installment released to IA after first UC submission",
+  "admin_key": "hackathon123"
+}
+--------------------
+Test 3: Chat test
+Click POST /chat → Try it →
+
+json
+----------------
+{
+  "role": "official",
+  "user_id": null,
+  "message": "What is the status of UP-GIA-001?"
+}
+-------------------
+You should get a detailed response with project data + your update!

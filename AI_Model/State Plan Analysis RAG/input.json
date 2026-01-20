@@ -1,0 +1,100 @@
+{
+    "financialYears": [
+        "2025-2026",
+        "2026-2027"
+    ],
+    "projectInformation": {
+        "title": "Integrated Livelihood Enhancement for SC Households",
+        "description": "This project integrates skill development, goat rearing livelihood support and construction of a small rural processing shed to enhance SC household incomes.",
+        "objectives": "Improve income levels through skill development, income generation, and essential supporting infrastructure.",
+        "targetGroup": "SC households (youth + women)"
+    },
+    "interventionTypes": [
+        "skill_development",
+        "income_generation",
+        "infrastructure_development"
+    ],
+    "skillDevelopment": {
+        "isActive": true,
+        "sectionByYear": {
+            "2025-2026": {
+                "executingAgencyIdentified": "Yes",
+                "skillType": "Food Processing",
+                "isSkillInstituteIdentified": "Yes",
+                "courseName": "Food Processing & Packaging (NSQF Level 4)",
+                "beneficiaryBreakup": [
+                    {
+                        "beneficiaries": "35",
+                        "fundsProposedGrantInAid": "₹4,20,000",
+                        "anticipatedExpenditure": "₹4,00,000"
+                    }
+                ],
+                "declarations": {
+                    "sqfCompliant": "Yes",
+                    "commonNormsCompliant": "Yes"
+                }
+            }
+        }
+    },
+    "incomeGeneration": {
+        "isActive": true,
+        "sectionByYear": {
+            "2025-2026": {
+                "domain": "Agriculture",
+                "subdomain": "Goat Rearing",
+                "executingAgencyIdentified": "Yes",
+                "beneficiaries": "20",
+                "costPerBeneficiary": "₹25,000",
+                "financials": {
+                    "loanFromBank": "₹1,50,000",
+                    "beneficiaryContribution": "₹40,000",
+                    "privateContribution": "0",
+                    "grantInAid": "₹3,00,000"
+                },
+                "declarations": {
+                    "marketLinkagesIdentified": "Yes"
+                }
+            }
+        }
+    },
+    "infrastructureDevelopment": {
+        "isActive": true,
+        "sectionByYear": {
+            "2026-2027": {
+                "areaType": "Rural",
+                "typeOfInfrastructure": "Processing Shed",
+                "subDomain": "Food Processing",
+                "infrastructureDescription": "Construction of a small processing and packaging shed for SC SHGs.",
+                "costEstimates": [
+                    {
+                        "head": "Construction",
+                        "amount": "₹8,50,000"
+                    },
+                    {
+                        "head": "Equipment",
+                        "amount": "₹2,00,000"
+                    }
+                ],
+                "otherSchemeFunds": {
+                    "fundsFromOtherSchemes": "₹1,50,000",
+                    "fundsFromGrantInAid": "₹9,50,000"
+                },
+                "scBeneficiaryCount": "30",
+                "declarations": {
+                    "landClearanceCertified": "Yes",
+                    "drawingsPrepared": "Yes"
+                }
+            }
+        }
+    },
+    "adminCosts": {
+        "2025-2026": {
+            "adminExpensePercent": "4%",
+            "adminExpenseAmount": "₹30,000"
+        },
+        "2026-2027": {
+            "adminExpensePercent": "4%",
+            "adminExpenseAmount": "₹35,000"
+        }
+    }
+}

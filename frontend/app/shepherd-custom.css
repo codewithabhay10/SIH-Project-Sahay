@@ -1,0 +1,151 @@
+/* Custom Shepherd.js Tour Styles */
+
+.shepherd-modal-overlay-container {
+  z-index: 9997 !important;
+}
+
+.shepherd-element {
+  z-index: 9999 !important;
+  max-width: 400px;
+}
+
+.shepherd-theme-custom {
+  background: white;
+  border-radius: 12px;
+  box-shadow: 0 10px 40px rgba(0, 0, 0, 0.2);
+  border: 2px solid #ffae00;
+}
+
+.shepherd-theme-custom .shepherd-content {
+  padding: 0;
+}
+
+.shepherd-theme-custom .shepherd-text {
+  padding: 20px;
+  font-size: 14px;
+  line-height: 1.6;
+  color: #333;
+}
+
+.shepherd-theme-custom .shepherd-header {
+  background: linear-gradient(135deg, #ffae00 0%, #ff9900 100%);
+  border-radius: 10px 10px 0 0;
+  padding: 15px 20px;
+}
+
+.shepherd-theme-custom .shepherd-title {
+  font-size: 18px;
+  font-weight: 700;
+  color: white;
+  margin: 0;
+}
+
+.shepherd-theme-custom .shepherd-footer {
+  padding: 15px 20px;
+  display: flex;
+  justify-content: flex-end;
+  gap: 10px;
+  border-top: 1px solid #f0f0f0;
+}
+
+.shepherd-theme-custom .shepherd-button {
+  background: #ffae00;
+  color: rgb(94, 64, 0);
+  border: 2px solid white;
+  border-radius: 99px;
+  padding: 8px 20px;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.3s ease;
+}
+
+.shepherd-theme-custom .shepherd-button:hover {
+  background: #ff9900;
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(255, 174, 0, 0.4);
+}
+
+.shepherd-theme-custom .shepherd-button-secondary {
+  background: transparent;
+  border: 2px solid #ffae00;
+  color: #ffae00;
+}
+
+.shepherd-theme-custom .shepherd-button-secondary:hover {
+  background: rgba(255, 174, 0, 0.1);
+}
+
+.shepherd-theme-custom .shepherd-cancel-icon {
+  position: absolute;
+  top: 15px;
+  right: 15px;
+  width: 24px;
+  height: 24px;
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  color: #666;
+  font-size: 20px;
+  transition: color 0.2s;
+}
+
+.shepherd-theme-custom .shepherd-cancel-icon:hover {
+  color: #ff4444;
+}
+
+.shepherd-theme-custom .shepherd-arrow {
+  border-color: #ffae00;
+}
+
+.shepherd-theme-custom .shepherd-arrow::before {
+  background: white;
+  border: 2px solid #ffae00;
+}
+
+/* Modal overlay styling */
+.shepherd-modal-overlay-container.shepherd-modal-is-visible {
+  opacity: 1;
+}
+
+.shepherd-modal-overlay-container.shepherd-modal-is-visible path {
+  fill: rgba(0, 0, 0, 0.5);
+}
+
+/* Highlight element */
+.shepherd-enabled.shepherd-element-attached-top .shepherd-target {
+  box-shadow: 0 0 0 4px rgba(255, 174, 0, 0.5);
+  border-radius: 8px;
+}
+
+/* Animation for tour appearance */
+@keyframes shepherdFadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.shepherd-element {
+  animation: shepherdFadeIn 0.3s ease-out;
+}
+
+/* Responsive design */
+@media (max-width: 640px) {
+  .shepherd-element {
+    max-width: 90vw;
+  }
+
+  .shepherd-theme-custom .shepherd-text {
+    font-size: 13px;
+    padding: 15px;
+  }
+
+  .shepherd-theme-custom .shepherd-footer {
+    padding: 12px 15px;
+  }
+}

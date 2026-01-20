@@ -1,0 +1,1802 @@
+[
+  {
+    "Issue_Id": "b72736a9-9082-4573-a2ce-8a237dc6c56d",
+    "Issue": "Delay in payment verification When will funds be credited?"
+  },
+  {
+    "Issue_Id": "434e78fa-a409-4f09-af00-73925cb900f3",
+    "Issue": "Delay in payment verification What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "dce28103-abd2-4683-9689-acc809a69927",
+    "Issue": "Local officer not responding Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "dbdd2b5d-0679-47af-944b-7008c63ccec1",
+    "Issue": "Upload option not working I forgot my registration number."
+  },
+  {
+    "Issue_Id": "72608e42-a02c-4a5e-8ecd-fb4cc4b30b15",
+    "Issue": "Mismatch in Aadhaar and account name Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "09720ed8-acd6-4225-9315-a7292f97c6ee",
+    "Issue": "Funds not credited despite approval Can I change project type?"
+  },
+  {
+    "Issue_Id": "fd69dcf1-891f-45d4-b760-0fe2e147354c",
+    "Issue": "Application rejected without reason How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "e49151b9-e8d4-4186-9cce-ebc7b7931137",
+    "Issue": "Delay in payment verification When will funds be credited?"
+  },
+  {
+    "Issue_Id": "674abcef-8941-4b1e-aa8a-01f074cf3a42",
+    "Issue": "Upload option not working I forgot my registration number."
+  },
+  {
+    "Issue_Id": "aad74a66-0d7b-44fa-9dac-47746019952a",
+    "Issue": "Mismatch in Aadhaar and account name Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "828076e7-7b52-4a99-8df2-0ee2ce17396f",
+    "Issue": "Delay in screening process Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "6b031007-cad9-42b0-bebf-130bec00c76c",
+    "Issue": "Mismatch in Aadhaar and account name Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "074fcdf6-e9bc-4116-b06a-13fcdcd1f553",
+    "Issue": "Local officer not responding Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "3dd07e6d-bcad-47cc-a7c5-d641e0053e3c",
+    "Issue": "Mismatch in Aadhaar and account name Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "e856b59a-d20e-4757-ad41-665c3656045d",
+    "Issue": "Form not available in local office Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "fc5ef6a0-ee4c-4e03-85be-2645e5245dc7",
+    "Issue": "Duplicate application found I forgot my registration number."
+  },
+  {
+    "Issue_Id": "7d4cf57f-347e-4756-8c70-bbfe87c1d262",
+    "Issue": "Form not available in local office Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "180c161a-2084-416b-8c79-5005ddf33a1e",
+    "Issue": "Upload option not working Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "c41c36d0-cbd3-4eaa-acda-4049c60ef9d4",
+    "Issue": "Delay in payment verification Can I change project type?"
+  },
+  {
+    "Issue_Id": "6b16ea5b-2c78-43fb-872c-236c9c248556",
+    "Issue": "Bank details mismatch Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "0508254c-ca57-4ab9-9d03-cf08701af654",
+    "Issue": "Funds not credited despite approval How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "8227e2d9-9e9f-44a0-aac4-05a17d0a4b75",
+    "Issue": "Local officer not responding What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "ed31c962-f3d0-4499-85c7-9ccbe4f80df0",
+    "Issue": "Bank details mismatch Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "9aacce0a-f96c-4ddc-a200-7c550523df14",
+    "Issue": "Delay in payment verification Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "2b925bac-bd86-4c86-a226-015f5aa70db8",
+    "Issue": "Duplicate application found I forgot my registration number."
+  },
+  {
+    "Issue_Id": "3d8502c8-c5aa-4f61-a522-b13129fc8357",
+    "Issue": "Duplicate application found Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "7df67873-6d59-4b71-8dac-0d872eb3a7ab",
+    "Issue": "Form not available in local office Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "5bc9e2b7-75c9-496e-95fa-3eb08713f460",
+    "Issue": "Bank details mismatch Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "7e03eae0-04b7-4c2f-8b90-b092c594daac",
+    "Issue": "Local officer not responding How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "5c1940bb-9716-41e4-9b55-397f9fb878e2",
+    "Issue": "Delay in screening process Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "877a1a60-cdfb-4db2-a2ff-c0f8067713e5",
+    "Issue": "Application rejected without reason Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "e1f74598-53b9-49bb-aa9f-ad836213c12f",
+    "Issue": "Delay in payment verification Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "c63a5959-5926-4223-b24b-35efa112d9b7",
+    "Issue": "Mismatch in Aadhaar and account name Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "c3956749-516a-49de-bc75-704b26a853f3",
+    "Issue": "Funds not credited despite approval Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "bd9e124a-0ff1-4156-a65e-c32d6f19a776",
+    "Issue": "Delay in payment verification What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "ebe489e7-d2f3-485f-a25a-869d6240fc1c",
+    "Issue": "Duplicate application found Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "2f658933-c073-4b6d-8dba-f644e31f10ae",
+    "Issue": "Bank details mismatch When will funds be credited?"
+  },
+  {
+    "Issue_Id": "f6bac9f7-355d-44c7-9999-1442f5c0f10a",
+    "Issue": "Funds not credited despite approval I forgot my registration number."
+  },
+  {
+    "Issue_Id": "7ef95954-5d17-4afc-9486-7fa0ebe18978",
+    "Issue": "Upload option not working I forgot my registration number."
+  },
+  {
+    "Issue_Id": "91150d15-6cdb-4966-ad30-b4a8f41f200f",
+    "Issue": "Form not available in local office I forgot my registration number."
+  },
+  {
+    "Issue_Id": "3fa138a1-e105-4618-9ee2-ecfecb869e8e",
+    "Issue": "Delay in screening process Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "4c84d413-a11c-497d-819b-ae986ca5647a",
+    "Issue": "Mismatch in Aadhaar and account name Can I change project type?"
+  },
+  {
+    "Issue_Id": "9dc55257-4c7d-4f39-81b2-1349f641d2b4",
+    "Issue": "Mismatch in Aadhaar and account name Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "6d18f23c-15b3-4913-b064-70e177352a59",
+    "Issue": "Form not available in local office When will funds be credited?"
+  },
+  {
+    "Issue_Id": "233df038-179d-4fec-a60b-11c63b6825bf",
+    "Issue": "Upload option not working Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "eb84166d-6471-4843-a57e-a2d74880a3e7",
+    "Issue": "Mismatch in Aadhaar and account name Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "269c5ec4-1568-4f48-8bc3-4370a578ce98",
+    "Issue": "Duplicate application found I forgot my registration number."
+  },
+  {
+    "Issue_Id": "5803f756-cbdb-4126-94fd-fddb8d719b82",
+    "Issue": "Mismatch in Aadhaar and account name When will funds be credited?"
+  },
+  {
+    "Issue_Id": "37cb3d2f-ca7d-492b-9be9-c6d12b3de2de",
+    "Issue": "Application rejected without reason I forgot my registration number."
+  },
+  {
+    "Issue_Id": "ba280cf2-9baa-4ffc-a812-3d12b884c28c",
+    "Issue": "Local officer not responding Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "f617b579-df7f-4d1c-9eaf-17f6d9c9308f",
+    "Issue": "Upload option not working What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "0a18bb3a-d0be-4b6a-aba0-2c951040a741",
+    "Issue": "Bank details mismatch Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "60777f30-6d39-42db-aebe-aa8ac8aa3358",
+    "Issue": "Funds not credited despite approval Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "30239134-f90d-48ec-b534-8ec77b99e642",
+    "Issue": "Delay in payment verification What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "d22c7a72-e587-47ed-8def-d53fb619716e",
+    "Issue": "Mismatch in Aadhaar and account name How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "38b111a6-3631-47a0-9796-11343f2b308d",
+    "Issue": "Bank details mismatch How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "9c179efb-f235-4984-84f9-a30225a138cb",
+    "Issue": "Mismatch in Aadhaar and account name How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "66c14ac7-06b3-4b1b-b1d2-8f59aa92773c",
+    "Issue": "Mismatch in Aadhaar and account name Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "df7217ae-27a7-4406-9a6a-fb2fb50fcd53",
+    "Issue": "Delay in screening process Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "79e3544a-5a81-499e-800b-fd82bd8ac1e4",
+    "Issue": "Delay in payment verification What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "bcb969b1-a770-473c-81a5-7aed0e603dfb",
+    "Issue": "Mismatch in Aadhaar and account name I forgot my registration number."
+  },
+  {
+    "Issue_Id": "0d02b58a-f4f2-410c-a00a-45b8c645416c",
+    "Issue": "Form not available in local office How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "29d6e365-209f-49e3-8953-e35dd532289b",
+    "Issue": "Funds not credited despite approval Can I change project type?"
+  },
+  {
+    "Issue_Id": "63862481-7eee-4e04-90d5-daf88e4d58d4",
+    "Issue": "Delay in payment verification Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "cb023a66-e9a5-4530-acca-e936a6c342cd",
+    "Issue": "Upload option not working Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "5c1a5655-e858-4305-991f-eaf2ccbb7c63",
+    "Issue": "Bank details mismatch Can I change project type?"
+  },
+  {
+    "Issue_Id": "8ea324ac-a0f4-461d-8598-4dfdff7c1d7d",
+    "Issue": "Application rejected without reason Can I change project type?"
+  },
+  {
+    "Issue_Id": "37a74d1a-5ab4-4c54-81e3-3e3fd9ce71a7",
+    "Issue": "Upload option not working How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "0efa6766-9fe2-4862-b62e-216636e8acfd",
+    "Issue": "Local officer not responding Can I change project type?"
+  },
+  {
+    "Issue_Id": "4cc001d7-fce2-432b-b7b9-e3a3df3ba319",
+    "Issue": "Local officer not responding Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "3b99e7a3-35d7-4f4d-964b-abe49ce4ac74",
+    "Issue": "Local officer not responding What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "398f761f-0239-43cc-98f9-16397fa8db95",
+    "Issue": "Mismatch in Aadhaar and account name When will funds be credited?"
+  },
+  {
+    "Issue_Id": "9aeeaef2-3f68-403c-b969-a1b91235a956",
+    "Issue": "Bank details mismatch Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "b00ae161-9eff-4eab-b0ce-06153dbf0cb2",
+    "Issue": "Local officer not responding I forgot my registration number."
+  },
+  {
+    "Issue_Id": "0167f764-f3da-48fe-a06c-c495ae53c722",
+    "Issue": "Upload option not working Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "f8ee47fe-05b6-46dd-a1fa-1c094be56b13",
+    "Issue": "Duplicate application found Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "ca547ab8-f908-4fda-a551-b5ecd47e9e8c",
+    "Issue": "Bank details mismatch Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "394072d0-2a00-49aa-80b5-4bb02e661635",
+    "Issue": "Local officer not responding When will funds be credited?"
+  },
+  {
+    "Issue_Id": "bf6ddbf1-efd4-4216-b152-958f80ccac9b",
+    "Issue": "Upload option not working Can I change project type?"
+  },
+  {
+    "Issue_Id": "e863222c-1340-4390-a81a-6eeaebbace8d",
+    "Issue": "Delay in screening process Can I change project type?"
+  },
+  {
+    "Issue_Id": "35b242ea-d1ac-4ea9-ae9b-5af3f80a41f6",
+    "Issue": "Mismatch in Aadhaar and account name Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "038406c6-16f7-41dc-bf8c-17f14c6cf9dd",
+    "Issue": "Local officer not responding Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "6b9e74a6-73e5-4748-9dc8-fe0b255e87a7",
+    "Issue": "Funds not credited despite approval How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "ee38971b-06a2-47aa-bd33-dad6b3f9445c",
+    "Issue": "Bank details mismatch What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "e51a86a1-7537-4c5f-8db8-39ff70ff8925",
+    "Issue": "Delay in screening process When will funds be credited?"
+  },
+  {
+    "Issue_Id": "523a0064-3f36-48b2-a6e0-6a4ea69e143a",
+    "Issue": "Form not available in local office Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "3fe75d9d-5d27-491a-b84c-0569fdf6eba4",
+    "Issue": "Mismatch in Aadhaar and account name Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "54df7808-4fcf-4bdd-b914-bf45f37f1a22",
+    "Issue": "Delay in payment verification Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "d0b4af67-a8e5-495d-b49f-f87d6d7773d0",
+    "Issue": "Delay in payment verification When will funds be credited?"
+  },
+  {
+    "Issue_Id": "73ddb3ba-7b92-4499-8958-c8e9471f6d4f",
+    "Issue": "Mismatch in Aadhaar and account name Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "69a49002-7e5f-466f-8ac6-0611ef19b157",
+    "Issue": "Delay in screening process When will funds be credited?"
+  },
+  {
+    "Issue_Id": "64878c85-c19e-4366-b4a6-2cd127db292a",
+    "Issue": "Funds not credited despite approval Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "af1f876f-9d21-49a6-8995-3644372799d7",
+    "Issue": "Funds not credited despite approval Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "d4403e1f-f22b-47ae-92a3-20603989aee8",
+    "Issue": "Local officer not responding Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "a4765f9d-5679-437a-bb2e-8b8dd34c73e4",
+    "Issue": "Duplicate application found When will funds be credited?"
+  },
+  {
+    "Issue_Id": "39ee7370-cee2-44c7-a9a9-c92f5a4d2e80",
+    "Issue": "Upload option not working When will funds be credited?"
+  },
+  {
+    "Issue_Id": "562d52f2-4a18-4cf5-b0ab-7deedb1bf4f8",
+    "Issue": "Funds not credited despite approval Can I change project type?"
+  },
+  {
+    "Issue_Id": "e1b38a19-7a67-47c7-aa84-d2bcac69d8de",
+    "Issue": "Delay in screening process Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "a6c4968a-3de0-44f4-9f37-ca764ac1d082",
+    "Issue": "Funds not credited despite approval Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "548633ab-e462-4c8a-9edc-5fa795a7aefa",
+    "Issue": "Form not available in local office Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "3d4ec04b-5c34-4527-ba5f-43e035e3dce8",
+    "Issue": "Bank details mismatch Can I change project type?"
+  },
+  {
+    "Issue_Id": "c348293a-0c65-49cc-a0ab-af88343a8382",
+    "Issue": "Delay in payment verification Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "9f1f9ba3-f9cf-4594-b8fe-71cb45d1293d",
+    "Issue": "Delay in screening process What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "0ce38abd-34da-4991-9432-48edd67465d0",
+    "Issue": "Bank details mismatch Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "55d0b9b5-ca67-4683-a042-a041917e08f9",
+    "Issue": "Delay in screening process Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "4b912cf5-a239-418e-8b02-c519be2005d5",
+    "Issue": "Bank details mismatch I forgot my registration number."
+  },
+  {
+    "Issue_Id": "8af10bea-c410-4db0-839c-96b2e4770cb2",
+    "Issue": "Local officer not responding How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "b0207878-2988-4e8b-ba82-262f93e25cc9",
+    "Issue": "Duplicate application found Can I change project type?"
+  },
+  {
+    "Issue_Id": "f5fb7b36-321c-43e3-ac78-e89b40f3bddf",
+    "Issue": "Form not available in local office Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "75e3062c-254b-41b4-8860-2b39b1695401",
+    "Issue": "Delay in screening process What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "7f6de22b-247f-4b4c-9b10-04ebf8c095f0",
+    "Issue": "Bank details mismatch Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "ff92ce6b-b63d-471c-9ed6-a4fe7502858e",
+    "Issue": "Delay in payment verification Can I change project type?"
+  },
+  {
+    "Issue_Id": "945c59e2-edee-4502-8a78-d4aff4ecc086",
+    "Issue": "Mismatch in Aadhaar and account name Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "7f0fc9ca-6676-44c2-a675-fb0db2be65b1",
+    "Issue": "Bank details mismatch Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "408d321f-9b6f-4608-8454-91b464f3cc4c",
+    "Issue": "Local officer not responding When will funds be credited?"
+  },
+  {
+    "Issue_Id": "60091303-c679-4a35-b5c7-c17d0eee0645",
+    "Issue": "Delay in screening process Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "b0bdc2eb-3e9b-4c79-82ef-e4bd81e01d57",
+    "Issue": "Form not available in local office Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "7e26b61b-8890-41e7-8ef8-d2655bf6492e",
+    "Issue": "Delay in payment verification When will funds be credited?"
+  },
+  {
+    "Issue_Id": "1b41f191-e69f-463f-a9f8-bd0bbcebe9e4",
+    "Issue": "Local officer not responding I forgot my registration number."
+  },
+  {
+    "Issue_Id": "8ebe1d32-5949-4c85-afb3-b4696b51e75e",
+    "Issue": "Delay in screening process Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "351beb0b-cc1c-4275-bb56-a574c0e4e146",
+    "Issue": "Funds not credited despite approval Can I change project type?"
+  },
+  {
+    "Issue_Id": "af8e59a9-ceed-46ae-be04-5a405dbb433c",
+    "Issue": "Application rejected without reason When will funds be credited?"
+  },
+  {
+    "Issue_Id": "6edb645d-536c-4ef5-892f-793fd6ebc946",
+    "Issue": "Duplicate application found When will funds be credited?"
+  },
+  {
+    "Issue_Id": "938b5f20-f68f-4c21-be8a-ed76e7a67cf4",
+    "Issue": "Delay in screening process Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "bfaabee1-a53f-4a56-a5a8-c0f7fea45fb8",
+    "Issue": "Form not available in local office What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "aaadbc4d-5be7-40a3-883e-2f8b7a387ce1",
+    "Issue": "Local officer not responding Can I change project type?"
+  },
+  {
+    "Issue_Id": "3ae5a936-0f76-47d7-8c9f-e412ff52e856",
+    "Issue": "Local officer not responding What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "048ba382-3aa2-4c4a-9a48-ce391ee49775",
+    "Issue": "Delay in screening process I forgot my registration number."
+  },
+  {
+    "Issue_Id": "54b726e4-9244-408d-9905-1158a2303f6c",
+    "Issue": "Delay in screening process Can I change project type?"
+  },
+  {
+    "Issue_Id": "c844d0a7-dde5-4bcd-b448-616da1ff9de8",
+    "Issue": "Bank details mismatch How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "acf3fa80-2f5c-45ae-8975-37cfe3f2217a",
+    "Issue": "Mismatch in Aadhaar and account name Can I change project type?"
+  },
+  {
+    "Issue_Id": "29288f5e-b3a0-4a5a-aa2f-a284296d334b",
+    "Issue": "Delay in screening process Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "8736701a-ce2f-4048-9f02-684b0699b32d",
+    "Issue": "Delay in payment verification When will funds be credited?"
+  },
+  {
+    "Issue_Id": "d22895c3-935f-424b-9a63-1a1f0fedbb00",
+    "Issue": "Form not available in local office Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "847bcf93-6ffb-4f43-b1bc-ccdeb93fabb2",
+    "Issue": "Bank details mismatch Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "8ac58345-8c78-4973-bd7d-df8e63162a73",
+    "Issue": "Form not available in local office I forgot my registration number."
+  },
+  {
+    "Issue_Id": "991d6fcd-765e-4bf0-baea-7829b1255fbb",
+    "Issue": "Duplicate application found Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "d153dc60-e605-4cbb-bbb3-2da569ea0556",
+    "Issue": "Mismatch in Aadhaar and account name What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "e1421aa2-c633-489c-bca8-5581c46d81a2",
+    "Issue": "Bank details mismatch When will funds be credited?"
+  },
+  {
+    "Issue_Id": "e33638d7-176b-4a13-b03c-b79f6b963482",
+    "Issue": "Local officer not responding What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "9ba1410c-ed29-4533-8a7b-ca36daaa00ee",
+    "Issue": "Upload option not working I forgot my registration number."
+  },
+  {
+    "Issue_Id": "9ad7fb3c-a249-4638-8ed3-2b86afe85322",
+    "Issue": "Application rejected without reason Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "6b85038e-0559-445f-a940-3f8567d063c7",
+    "Issue": "Bank details mismatch Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "2c6015e5-6ac3-47b6-8936-0a02d840d746",
+    "Issue": "Bank details mismatch Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "45f45be9-31b7-4d94-969e-adf137b60d7b",
+    "Issue": "Local officer not responding Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "730c0ab2-24b9-411f-9e2c-b8536d528ef4",
+    "Issue": "Upload option not working Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "96405b85-dffe-4af1-aad6-cadf73154b46",
+    "Issue": "Funds not credited despite approval I forgot my registration number."
+  },
+  {
+    "Issue_Id": "6dbe6a76-00cf-4fb5-80ac-56939b00ebd7",
+    "Issue": "Duplicate application found Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "95d53e15-5253-42eb-88be-871663924ba8",
+    "Issue": "Application rejected without reason Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "736d6802-cdbb-44e0-8069-75c5a7a97f4a",
+    "Issue": "Upload option not working What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "5bc5758b-c65c-4d41-a9a0-b740fd64ebbd",
+    "Issue": "Upload option not working Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "526ac46e-f23f-4f78-888d-546f518e8510",
+    "Issue": "Bank details mismatch How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "20ef715c-dad6-479f-8d88-3a64259d1ce1",
+    "Issue": "Funds not credited despite approval Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "f36795ff-76e0-4ef9-9948-53255478ea39",
+    "Issue": "Delay in screening process Can I change project type?"
+  },
+  {
+    "Issue_Id": "e0612a31-c333-4e31-a51a-a7ad7e415f8f",
+    "Issue": "Delay in screening process Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "764b6ebb-f7ec-481a-ae2a-87bce74a1241",
+    "Issue": "Delay in screening process How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "62660f74-aa59-45ca-8472-3adfb160eed5",
+    "Issue": "Funds not credited despite approval Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "bce1d7e1-7840-4bfd-aa48-9ba352fd4b8c",
+    "Issue": "Delay in payment verification Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "829ebfe0-a31b-4658-8ebc-b4695c8c2dcf",
+    "Issue": "Mismatch in Aadhaar and account name Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "434dbba3-b12b-40e8-b308-7f5563c65c3c",
+    "Issue": "Mismatch in Aadhaar and account name What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "711c217a-5b3f-4412-9d5f-bcfaf9699424",
+    "Issue": "Upload option not working What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "7930ff4e-1a87-460c-8751-05b35efb6227",
+    "Issue": "Form not available in local office Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "58c7c0fd-e32a-49eb-9389-80dcd2caf2a6",
+    "Issue": "Application rejected without reason Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "eea4bbec-0643-46eb-bd21-a2a13a410785",
+    "Issue": "Delay in payment verification Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "d27cf118-c1a8-47af-a9bd-0bd49d8b40a8",
+    "Issue": "Delay in payment verification I forgot my registration number."
+  },
+  {
+    "Issue_Id": "a790c041-0561-4734-a47b-d42d6b072caa",
+    "Issue": "Funds not credited despite approval Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "fb7fedf8-cc43-45ec-94d8-fb5a14fbf744",
+    "Issue": "Duplicate application found Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "c1137bfb-21bf-4b3f-95ab-d55f4b29a8e0",
+    "Issue": "Delay in payment verification Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "93eed814-d1f6-4a0b-a6d3-d8d0fdea274e",
+    "Issue": "Upload option not working Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "b5652b3a-cf50-45d9-b6d4-92df66da728e",
+    "Issue": "Duplicate application found Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "89d043b6-d559-4db4-a337-18c401ca3f76",
+    "Issue": "Form not available in local office Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "cbcb0e32-0970-45ae-b168-218ddba297d6",
+    "Issue": "Application rejected without reason Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "6f762784-4da0-4769-a482-da5327ed1276",
+    "Issue": "Bank details mismatch What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "8d4b35ca-d5fc-4503-bc46-fff87db3b375",
+    "Issue": "Bank details mismatch What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "69a56552-d5a9-4a7f-a862-0aafec85d64c",
+    "Issue": "Duplicate application found Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "1c576994-43a1-43c2-84be-7a2bbbc0eaeb",
+    "Issue": "Mismatch in Aadhaar and account name Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "c8c61f15-cd90-4508-94c8-7aea3f23f4e9",
+    "Issue": "Duplicate application found Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "9083e232-fab3-43af-be0b-a8fd9d1f7250",
+    "Issue": "Delay in screening process Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "4f6f45b8-8571-4b1f-872a-e78cb10b1818",
+    "Issue": "Application rejected without reason Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "02927d7e-23cf-441d-8fe6-f84b54763107",
+    "Issue": "Delay in screening process Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "95051eed-b154-4961-866a-36ead96424db",
+    "Issue": "Delay in screening process Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "f9725727-ddfa-43f4-a739-99805471f5f8",
+    "Issue": "Funds not credited despite approval Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "10f88764-07b4-4183-a751-894b9ccc8725",
+    "Issue": "Delay in payment verification I forgot my registration number."
+  },
+  {
+    "Issue_Id": "2d573440-f842-4404-b750-4830ed5bf256",
+    "Issue": "Local officer not responding Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "179a5531-a11f-42f8-85ef-13b4ac7bbde4",
+    "Issue": "Upload option not working What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "d233610a-6126-49c1-9e9f-0ac61f6f73f7",
+    "Issue": "Form not available in local office Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "be7175b2-f69c-4853-b393-9cefa92f26cc",
+    "Issue": "Delay in payment verification Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "d2277713-b3fd-4cfa-8e30-926bc0d4103e",
+    "Issue": "Application rejected without reason Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "ef930693-86e0-4301-8d1e-121441bd2c84",
+    "Issue": "Upload option not working How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "4e1a1582-75f3-4079-909b-511a977c0a68",
+    "Issue": "Delay in screening process Can I change project type?"
+  },
+  {
+    "Issue_Id": "197f1a97-ce95-4915-87a8-7c3e05388e04",
+    "Issue": "Application rejected without reason When will funds be credited?"
+  },
+  {
+    "Issue_Id": "e9d5d2c4-a21b-4beb-b828-0a0a216bc777",
+    "Issue": "Delay in screening process What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "b2277577-1581-41b7-948a-71468dc1819e",
+    "Issue": "Bank details mismatch Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "6f5332a8-d319-4b75-b606-eeaaddca7ef9",
+    "Issue": "Delay in payment verification When will funds be credited?"
+  },
+  {
+    "Issue_Id": "80aa6873-671c-408f-bbc9-2642777df92b",
+    "Issue": "Delay in payment verification Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "61d30a90-7f46-4223-a773-cfa6437b209f",
+    "Issue": "Local officer not responding What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "eabcf392-72dc-4ccf-8a61-5adbd434a496",
+    "Issue": "Upload option not working Can I change project type?"
+  },
+  {
+    "Issue_Id": "5804c90a-ccd3-450f-93af-91b00187d371",
+    "Issue": "Form not available in local office Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "7243d95a-1ca0-475a-97b9-4ed3aebf5cd9",
+    "Issue": "Delay in screening process Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "772dc314-833d-4399-8a7e-edc04d47a6c0",
+    "Issue": "Mismatch in Aadhaar and account name Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "46585e37-8343-48e6-a87f-3b4f56ba8ac2",
+    "Issue": "Local officer not responding Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "0c89b710-58c8-43a5-ad88-84556ddd8a25",
+    "Issue": "Bank details mismatch Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "59dfe767-35b1-4573-81ec-c41085418c40",
+    "Issue": "Bank details mismatch Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "bfb0dbd0-4a8e-4fb3-b6dd-541ca1501571",
+    "Issue": "Upload option not working Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "fec99753-f045-4ea7-ab52-2dd7466ad086",
+    "Issue": "Bank details mismatch Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "05dd3976-5f5f-40f0-8a8c-dd897bd37149",
+    "Issue": "Upload option not working How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "ab54d832-ce1e-428a-afdc-2b7dd8a64b1b",
+    "Issue": "Application rejected without reason Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "2cbbab9f-1731-4f81-acdd-0a52156f2580",
+    "Issue": "Bank details mismatch What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "343404c5-72d6-42c1-aeef-2eb200e6b761",
+    "Issue": "Duplicate application found I forgot my registration number."
+  },
+  {
+    "Issue_Id": "1ceb324f-ec8a-4947-8034-5ba003910cc0",
+    "Issue": "Duplicate application found Can I change project type?"
+  },
+  {
+    "Issue_Id": "bc76fff2-a75e-4854-a7c5-9e573e96f991",
+    "Issue": "Upload option not working Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "8eabfe65-71eb-4afc-8229-11b79d778893",
+    "Issue": "Application rejected without reason How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "d1bed8de-3749-4ed2-af67-f181e8529664",
+    "Issue": "Application rejected without reason Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "a9ae7810-ac57-4660-b2e9-b17accdc120d",
+    "Issue": "Local officer not responding Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "6cd29a81-1cc4-4fb1-984f-bc90e0714a28",
+    "Issue": "Application rejected without reason Can I change project type?"
+  },
+  {
+    "Issue_Id": "9cf4988a-89d9-40ee-bda1-74530d074f0a",
+    "Issue": "Mismatch in Aadhaar and account name Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "732e1add-3ce6-4588-b6cb-bc740365ea51",
+    "Issue": "Mismatch in Aadhaar and account name Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "9ba37eac-57a9-47a8-8e53-8d00c2afa831",
+    "Issue": "Delay in payment verification Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "4d844442-c9a0-48b1-b614-42968aea988d",
+    "Issue": "Upload option not working When will funds be credited?"
+  },
+  {
+    "Issue_Id": "17e642c6-dade-4869-90aa-a79aff4cc1c4",
+    "Issue": "Delay in screening process Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "8e024316-2824-4cb4-9b16-d97e74ceaadf",
+    "Issue": "Delay in payment verification Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "9bb982b2-b420-45c9-a9fb-bd2cc375c693",
+    "Issue": "Local officer not responding Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "f3d8e680-6ab8-4c04-9b3f-611e3126b6f7",
+    "Issue": "Funds not credited despite approval Can I change project type?"
+  },
+  {
+    "Issue_Id": "7d625a87-1839-4b05-a86f-f99978081934",
+    "Issue": "Local officer not responding Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "f6d2250b-940e-41e3-8bf8-a59c8d4607ff",
+    "Issue": "Duplicate application found Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "bfce7320-1acd-44d1-a4e9-8825ad8cbaca",
+    "Issue": "Upload option not working Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "4c56ad9d-6437-4d8a-bcbd-7261ddf647db",
+    "Issue": "Bank details mismatch What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "f51737fa-9562-4dfc-aafc-68342033d1a0",
+    "Issue": "Delay in payment verification When will funds be credited?"
+  },
+  {
+    "Issue_Id": "9544295c-5c04-4e96-bf11-5da69bf83848",
+    "Issue": "Form not available in local office Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "8d20cdc0-b003-4553-af7f-a75850cd388e",
+    "Issue": "Bank details mismatch Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "c968df55-0324-4fe1-b5ee-d7c1a1b106fe",
+    "Issue": "Funds not credited despite approval How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "557908af-ddd7-4591-8d09-f922bc338ee4",
+    "Issue": "Funds not credited despite approval What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "36638c0e-601f-4b5d-b8c3-d7ac4bfb799a",
+    "Issue": "Delay in payment verification When will funds be credited?"
+  },
+  {
+    "Issue_Id": "fdc6a616-2dc3-49b0-b9f5-f4f6a51b04f5",
+    "Issue": "Form not available in local office Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "1cdd8b21-e715-4a73-a300-9707fdf713df",
+    "Issue": "Funds not credited despite approval How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "e8442941-36d4-4a17-9e1e-cdb2aa66fc2e",
+    "Issue": "Bank details mismatch What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "7c522b8d-7226-44e9-9859-f9909a4fbdb4",
+    "Issue": "Upload option not working How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "a4a05951-22e0-4d22-954f-974556a2ef0e",
+    "Issue": "Duplicate application found Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "cd101327-176f-4a1d-828f-28aa7f47caff",
+    "Issue": "Bank details mismatch I forgot my registration number."
+  },
+  {
+    "Issue_Id": "2b881ab9-c027-4670-a12e-8ab8f503a8c1",
+    "Issue": "Mismatch in Aadhaar and account name Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "ca965532-eb2d-434d-9566-94b391554a57",
+    "Issue": "Local officer not responding What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "bb5d28fc-7e8e-419e-b784-722525683a1f",
+    "Issue": "Bank details mismatch Can I change project type?"
+  },
+  {
+    "Issue_Id": "67f9dbcd-8397-491c-9a44-9bb4e67bb185",
+    "Issue": "Local officer not responding Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "1919dcdb-c0c6-483c-baa3-95dea549413d",
+    "Issue": "Delay in screening process Can I change project type?"
+  },
+  {
+    "Issue_Id": "aff75a6d-f4f7-4471-95dc-ef412350c0dc",
+    "Issue": "Delay in screening process When will funds be credited?"
+  },
+  {
+    "Issue_Id": "6eafe99a-af51-4369-9beb-32b26209ee7e",
+    "Issue": "Upload option not working Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "14d1edf0-47d5-47a7-af29-3d17ce4cbf84",
+    "Issue": "Mismatch in Aadhaar and account name I forgot my registration number."
+  },
+  {
+    "Issue_Id": "2365f344-e7c1-45dc-9881-91cc20d73224",
+    "Issue": "Application rejected without reason Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "2dc04ee2-e080-42ba-9e3d-ec68fb019d8e",
+    "Issue": "Upload option not working Can I change project type?"
+  },
+  {
+    "Issue_Id": "98a4647a-4c42-4154-8429-54c5f6a3b8ae",
+    "Issue": "Local officer not responding Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "c22097e2-907b-4753-b8fa-25d3b665eb92",
+    "Issue": "Form not available in local office Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "6d2b718e-8601-44af-a9b4-7e406301372f",
+    "Issue": "Delay in payment verification Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "0a30a23b-7f4d-430b-a5a3-aa0f2c68a801",
+    "Issue": "Upload option not working Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "4f052a2b-8763-433f-a641-502289751bd0",
+    "Issue": "Mismatch in Aadhaar and account name Can I change project type?"
+  },
+  {
+    "Issue_Id": "52e9680c-2907-441d-a7f7-f4585f6981a5",
+    "Issue": "Application rejected without reason Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "f66688aa-a4a5-41be-818d-6a278aaa271d",
+    "Issue": "Upload option not working What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "fb1fdaa0-3b86-46cb-90da-c92155faf1fb",
+    "Issue": "Delay in screening process Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "0c879c94-97fa-418a-9669-49e3f86c98b4",
+    "Issue": "Local officer not responding Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "466740f1-b65f-4501-9206-c03b14aaa193",
+    "Issue": "Upload option not working Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "fd7ef441-6eab-4857-b221-08cd0b69cf7c",
+    "Issue": "Funds not credited despite approval Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "908d3f2c-62cb-4154-955b-527372370b9d",
+    "Issue": "Delay in payment verification Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "da64a2d0-e4f1-4674-b313-a0a6ee08d457",
+    "Issue": "Mismatch in Aadhaar and account name How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "b483c580-e854-44e5-ae88-fc2dad366462",
+    "Issue": "Upload option not working Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "9753e7b9-44cc-4d65-bd27-98da914c3fb1",
+    "Issue": "Delay in screening process Can I change project type?"
+  },
+  {
+    "Issue_Id": "f78e6170-2cdb-4cd4-a0eb-8b9ba2830832",
+    "Issue": "Delay in payment verification Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "e6de2697-689e-4e14-98f6-25fbc1e10b5b",
+    "Issue": "Local officer not responding When will funds be credited?"
+  },
+  {
+    "Issue_Id": "6c2db2b1-0505-41e9-bee4-435101cbf957",
+    "Issue": "Upload option not working Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "e141eae6-387e-46a4-ba52-4de33c21441e",
+    "Issue": "Duplicate application found Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "3188dea2-744d-4d9d-a10e-8d4a51f0f46e",
+    "Issue": "Funds not credited despite approval Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "543acf26-0ca5-4dfa-aa8a-28be67be5b5b",
+    "Issue": "Form not available in local office What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "02fffb77-4f74-4984-b92c-19815afa18e5",
+    "Issue": "Funds not credited despite approval Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "de13dd50-fdc1-4b1a-9aff-2b5a988004d4",
+    "Issue": "Funds not credited despite approval Can I change project type?"
+  },
+  {
+    "Issue_Id": "ad9d48e9-f2cf-476f-afd0-e875dde1d7d7",
+    "Issue": "Mismatch in Aadhaar and account name I forgot my registration number."
+  },
+  {
+    "Issue_Id": "ea337c3a-ab01-46d2-b598-3665f7faf7b6",
+    "Issue": "Delay in payment verification Can I change project type?"
+  },
+  {
+    "Issue_Id": "ae9f54cf-98a8-41b7-a3a1-fa83dde9f618",
+    "Issue": "Mismatch in Aadhaar and account name How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "cf99c3f6-5a6d-44eb-8c31-61d3f30066e9",
+    "Issue": "Mismatch in Aadhaar and account name What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "f54d93f5-69bf-4744-be42-390731d820c0",
+    "Issue": "Local officer not responding Can I change project type?"
+  },
+  {
+    "Issue_Id": "030d9c70-6e94-4059-9a6f-2da7c29b1194",
+    "Issue": "Application rejected without reason Can I change project type?"
+  },
+  {
+    "Issue_Id": "e0aa4e02-587c-4909-8def-0fbd223a0aae",
+    "Issue": "Local officer not responding Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "c72fe911-422c-43a7-a631-360c1c625e96",
+    "Issue": "Mismatch in Aadhaar and account name What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "ca349cdf-2313-4316-bbdc-332765d91e8c",
+    "Issue": "Upload option not working Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "363d4656-b2c2-4f06-802e-e120060bd79a",
+    "Issue": "Form not available in local office How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "7478e9b6-7c5c-4a34-8c77-9fa5dc29a825",
+    "Issue": "Bank details mismatch How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "802ef74a-82a0-4fa3-9d4e-3a0a201cc725",
+    "Issue": "Bank details mismatch Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "49c1a7a4-735f-4b07-9fa7-d4a97042326e",
+    "Issue": "Delay in payment verification I forgot my registration number."
+  },
+  {
+    "Issue_Id": "7e7b850d-1821-4732-91d9-61b695046555",
+    "Issue": "Duplicate application found Can I change project type?"
+  },
+  {
+    "Issue_Id": "09e16cbf-acb3-47e1-b0c8-fd6554a52124",
+    "Issue": "Application rejected without reason What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "5582c05c-bf72-44a4-bebc-57f57cd74661",
+    "Issue": "Funds not credited despite approval Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "87c9a46f-2433-4ed1-9d6f-6feca018e03a",
+    "Issue": "Delay in screening process Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "27b32342-f78c-496f-a9bd-1142f15a936a",
+    "Issue": "Upload option not working Can I change project type?"
+  },
+  {
+    "Issue_Id": "1a94a2a7-c807-4d35-a84f-9bcb79a69c42",
+    "Issue": "Upload option not working Can I change project type?"
+  },
+  {
+    "Issue_Id": "cf9d16f0-53eb-4ab0-b16b-1377683f7cd0",
+    "Issue": "Duplicate application found Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "da8c6354-7acb-4d82-b5ca-41f698fd4c60",
+    "Issue": "Mismatch in Aadhaar and account name Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "474d5523-e3b6-4e20-8fe6-c384dbc28c31",
+    "Issue": "Funds not credited despite approval Can I change project type?"
+  },
+  {
+    "Issue_Id": "3cd1cff4-a842-4184-a994-95cfcbb04fb3",
+    "Issue": "Funds not credited despite approval Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "c4ab9129-fc40-4f25-a48d-965a6ad6b3ea",
+    "Issue": "Application rejected without reason What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "38eb8376-c4a7-454d-9ae2-67b16b369085",
+    "Issue": "Mismatch in Aadhaar and account name Can I change project type?"
+  },
+  {
+    "Issue_Id": "47395f15-46c6-48bd-8fff-9b56bfa6d7a3",
+    "Issue": "Mismatch in Aadhaar and account name Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "134614ab-6f85-443d-97b3-22643a76da0f",
+    "Issue": "Delay in screening process Can I change project type?"
+  },
+  {
+    "Issue_Id": "dd7b45f7-d30a-4bf4-89ac-adf5d0c51667",
+    "Issue": "Form not available in local office What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "a553f9c0-45c6-48a1-9536-2b1603d203ec",
+    "Issue": "Local officer not responding Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "ade378d5-6714-4802-9657-cead33542bcc",
+    "Issue": "Mismatch in Aadhaar and account name What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "fd99f1e0-473c-4fe6-9522-f328e6dc1105",
+    "Issue": "Mismatch in Aadhaar and account name Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "18ab22db-d26c-4967-acd2-bdc02c920930",
+    "Issue": "Local officer not responding Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "62d5fcec-8691-4cde-a638-66623f19d4c0",
+    "Issue": "Upload option not working When will funds be credited?"
+  },
+  {
+    "Issue_Id": "11ad5c7e-824b-4d81-b2d9-e1b42be36d15",
+    "Issue": "Mismatch in Aadhaar and account name Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "38ed2512-114d-4e67-b86e-563df35a7413",
+    "Issue": "Duplicate application found Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "2fca4f1e-527f-4207-89f5-4c5c55db71c5",
+    "Issue": "Mismatch in Aadhaar and account name What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "70774602-6cde-471a-9baa-a277d9f91a5e",
+    "Issue": "Delay in payment verification How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "8e907ad8-01d5-43ab-ad46-35a6c43e7db5",
+    "Issue": "Application rejected without reason Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "ce7eaed3-0ed3-482c-bc10-505998969e7d",
+    "Issue": "Funds not credited despite approval What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "5d2d4dbb-d8da-4346-a4f8-aed8d0a2155c",
+    "Issue": "Delay in payment verification Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "c8fa598b-94b1-409c-952a-722053e00fe9",
+    "Issue": "Local officer not responding Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "6dd3e06c-2fba-46bd-98b9-d5f5691dd779",
+    "Issue": "Delay in screening process Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "5156a187-7bb6-4cc2-a136-30011d34011f",
+    "Issue": "Funds not credited despite approval Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "220c25ea-c9e9-4b05-9d2b-24fbad8689af",
+    "Issue": "Funds not credited despite approval I forgot my registration number."
+  },
+  {
+    "Issue_Id": "c6405f47-ae3e-407a-b1e2-9bb9d6c059c2",
+    "Issue": "Delay in payment verification I forgot my registration number."
+  },
+  {
+    "Issue_Id": "fa862ffd-1d87-4f57-8267-6acb1a3b4b78",
+    "Issue": "Application rejected without reason Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "cd11ea7a-4d37-4e37-978d-8a84edf8c6af",
+    "Issue": "Bank details mismatch Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "fb80f772-101b-4ab8-a1c3-8377f9404a96",
+    "Issue": "Local officer not responding How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "847d9c76-180c-4f03-889d-2c76ed73ce79",
+    "Issue": "Form not available in local office What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "1f2824c7-e963-4856-be9d-730f5e4ee713",
+    "Issue": "Mismatch in Aadhaar and account name What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "8c50dd42-028d-4419-b1f7-135e2bb54b22",
+    "Issue": "Form not available in local office I forgot my registration number."
+  },
+  {
+    "Issue_Id": "49926f9e-5b01-4424-aa1f-4028434fc057",
+    "Issue": "Application rejected without reason I forgot my registration number."
+  },
+  {
+    "Issue_Id": "c90fa101-7ed0-4cc5-992f-863d30f95479",
+    "Issue": "Local officer not responding Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "46834760-fbea-4610-958d-a0193c8313d6",
+    "Issue": "Bank details mismatch What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "96c04a63-b07d-4389-90d1-7ff2674cf5b5",
+    "Issue": "Mismatch in Aadhaar and account name Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "6bb3c039-9924-4374-ad4a-ad9750f43f04",
+    "Issue": "Funds not credited despite approval When will funds be credited?"
+  },
+  {
+    "Issue_Id": "9d334562-4afe-45a7-b460-07e776c11cb0",
+    "Issue": "Funds not credited despite approval Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "b08b8124-c080-419c-9102-1df8f7487031",
+    "Issue": "Form not available in local office I forgot my registration number."
+  },
+  {
+    "Issue_Id": "061d3d2f-0305-44e9-8c00-863d6b66118c",
+    "Issue": "Funds not credited despite approval Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "71b8cf06-3739-4e12-9fb2-5f34377c51cc",
+    "Issue": "Delay in screening process Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "297a6d6b-7f66-489d-b8f5-7cc1885f09a3",
+    "Issue": "Funds not credited despite approval Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "fdefaed6-be7e-4ad5-ba3f-2e803e0c47ca",
+    "Issue": "Funds not credited despite approval I forgot my registration number."
+  },
+  {
+    "Issue_Id": "9a26e20c-ac92-44f4-9710-028c52919805",
+    "Issue": "Bank details mismatch I forgot my registration number."
+  },
+  {
+    "Issue_Id": "34d0f2b9-3ae0-436f-88e9-3fe9a01ee640",
+    "Issue": "Delay in payment verification Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "38cb91ae-9c9c-4a0a-b562-f611bc044ecc",
+    "Issue": "Mismatch in Aadhaar and account name Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "e0e34784-6ef0-49a7-b660-e4d3e1ae3ec3",
+    "Issue": "Delay in payment verification When will funds be credited?"
+  },
+  {
+    "Issue_Id": "5014f340-38ad-40b4-8532-84cc0529fc66",
+    "Issue": "Upload option not working Can I change project type?"
+  },
+  {
+    "Issue_Id": "95165c90-a789-4b17-95c1-e4c46de6ea6e",
+    "Issue": "Upload option not working Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "873c76cc-ba13-4acd-8a43-ff3ae0a32287",
+    "Issue": "Form not available in local office Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "2fd66088-4f46-46b9-8715-a40f5f7356f1",
+    "Issue": "Upload option not working Can I change project type?"
+  },
+  {
+    "Issue_Id": "1ed1e386-e295-4fc7-9003-8550a1201199",
+    "Issue": "Delay in screening process What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "1e229efd-c664-4f29-af4c-a242b9e50689",
+    "Issue": "Delay in screening process Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "8a43dc22-1525-482b-8426-c2abc9a21be0",
+    "Issue": "Upload option not working Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "d3ab9f43-3288-45b6-a521-bc7eb9e02315",
+    "Issue": "Duplicate application found Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "ee9e8eb9-5c62-4a46-ae79-9f19cfb2d87e",
+    "Issue": "Funds not credited despite approval Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "c47c0338-928b-496c-a388-04d908eb5341",
+    "Issue": "Funds not credited despite approval Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "9b677de6-b77d-4804-8c72-7ad8a50cdfd9",
+    "Issue": "Mismatch in Aadhaar and account name Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "f8c5b097-e2b0-4498-9759-e9a7c84b4889",
+    "Issue": "Duplicate application found Can I change project type?"
+  },
+  {
+    "Issue_Id": "2d202234-2a69-441a-a126-1597d11615f2",
+    "Issue": "Form not available in local office I forgot my registration number."
+  },
+  {
+    "Issue_Id": "325fc8e8-6fd4-4349-ab2a-bb43709bb9b6",
+    "Issue": "Form not available in local office I forgot my registration number."
+  },
+  {
+    "Issue_Id": "4519d2fd-2034-48ac-b663-93ce138ce3ec",
+    "Issue": "Local officer not responding How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "20e717a3-9bac-4607-9751-2168d59ba6ae",
+    "Issue": "Bank details mismatch What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "486a9bd7-0e67-411f-bfba-d184be676010",
+    "Issue": "Upload option not working Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "df3f6988-75fb-4e4f-a9ee-f542bf72e112",
+    "Issue": "Upload option not working Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "d209e3ba-3f4d-451d-bf2c-626146cd9899",
+    "Issue": "Duplicate application found How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "4fb78faa-043c-4093-bf74-2ac3b998ecd9",
+    "Issue": "Delay in screening process I forgot my registration number."
+  },
+  {
+    "Issue_Id": "50e7642b-6dd9-478d-9eca-731027820c8a",
+    "Issue": "Application rejected without reason Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "cb8d9325-a584-40f2-96f4-a65d9a5500bf",
+    "Issue": "Local officer not responding How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "24c5776a-9fba-42d2-bce0-ac2b2c61977f",
+    "Issue": "Local officer not responding What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "1707602a-4844-439e-b448-26302f34f34f",
+    "Issue": "Bank details mismatch How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "86688997-6a37-4c86-81b3-25bca097595b",
+    "Issue": "Delay in screening process How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "3d0312d0-f224-4307-9193-8c518f92340d",
+    "Issue": "Delay in payment verification Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "01b2ff70-ed7a-49b6-b45b-761a1d55b64c",
+    "Issue": "Form not available in local office Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "55a78ac4-4f7e-4ea8-be93-57fa104c15d3",
+    "Issue": "Delay in payment verification Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "71877e75-c53c-4538-8edb-ecb88364c009",
+    "Issue": "Funds not credited despite approval When will funds be credited?"
+  },
+  {
+    "Issue_Id": "66465b60-2e73-456d-88bb-16c3d1cc0e8f",
+    "Issue": "Form not available in local office Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "79703850-83ab-4d09-9d1b-2af2974d1e37",
+    "Issue": "Form not available in local office I forgot my registration number."
+  },
+  {
+    "Issue_Id": "2222de7c-3191-4a8a-b5f1-0c833af12a3e",
+    "Issue": "Bank details mismatch I forgot my registration number."
+  },
+  {
+    "Issue_Id": "a635ec64-e7c6-4a04-9313-51f6f3413018",
+    "Issue": "Delay in payment verification Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "1607390f-4a78-437d-8f23-832433770281",
+    "Issue": "Mismatch in Aadhaar and account name Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "f32f86d7-9135-4fdb-9c98-1ba9d83e62b0",
+    "Issue": "Duplicate application found Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "80f79909-2d38-43f2-9be5-410d3237333d",
+    "Issue": "Funds not credited despite approval Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "8570fb49-2d26-42c9-b29f-9075a4d9877d",
+    "Issue": "Funds not credited despite approval Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "6af444c6-cee5-4661-b051-f376935aa4c7",
+    "Issue": "Bank details mismatch Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "d035795b-bbef-43bc-aa51-0788218e1963",
+    "Issue": "Local officer not responding How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "d6945266-a3c2-467c-a260-03e3e8279b23",
+    "Issue": "Application rejected without reason Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "51f30ab4-55be-46e0-8663-c49ede86c02b",
+    "Issue": "Funds not credited despite approval What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "1856e67a-2f0e-4529-8e5c-50d999a5e8bb",
+    "Issue": "Mismatch in Aadhaar and account name How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "f51306e3-8602-4033-a872-4a45dbbab9b7",
+    "Issue": "Bank details mismatch Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "be6004c0-8a0c-4ba7-8938-66b0ce2afc6a",
+    "Issue": "Upload option not working Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "59d78514-2aa3-49d5-be5d-62670af8c6cf",
+    "Issue": "Funds not credited despite approval Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "3fbd7ba9-d76c-4f1e-afd8-52f023b3e43a",
+    "Issue": "Funds not credited despite approval Can I change project type?"
+  },
+  {
+    "Issue_Id": "7ecf7ca0-0b25-4249-ac12-f989daef944c",
+    "Issue": "Delay in screening process Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "16d30837-5a77-4d09-8ece-718926d49342",
+    "Issue": "Application rejected without reason Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "789fb66f-67ba-40b4-a2ea-5439b9897545",
+    "Issue": "Mismatch in Aadhaar and account name How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "ce4dbf4a-bb36-470b-8140-f8908346ad15",
+    "Issue": "Upload option not working Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "37cf0f2e-1b8b-4757-b508-7e1c4ec4af6e",
+    "Issue": "Delay in screening process Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "08c6a74c-b527-4536-9e44-86a6ebd7963f",
+    "Issue": "Delay in payment verification Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "f6db7d4f-5189-42db-a1da-9301787cf9ee",
+    "Issue": "Application rejected without reason I forgot my registration number."
+  },
+  {
+    "Issue_Id": "79c71a55-a9bd-472f-9265-f6c62e582771",
+    "Issue": "Duplicate application found Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "2f0eb37a-253a-4e2c-8684-9aa8589c8bd7",
+    "Issue": "Local officer not responding I forgot my registration number."
+  },
+  {
+    "Issue_Id": "ee200f97-7521-4d39-8bb8-d3502e02b7b5",
+    "Issue": "Form not available in local office Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "bc37d981-0b8e-4839-a166-3332acf2cf30",
+    "Issue": "Application rejected without reason I forgot my registration number."
+  },
+  {
+    "Issue_Id": "91596665-6ad3-4f38-a55d-bfb3dd134e6f",
+    "Issue": "Upload option not working Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "43f28512-80fa-47f3-ab1e-113a454fa2ea",
+    "Issue": "Delay in screening process Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "7b7a0396-71d4-438d-9b3b-266d2b6af714",
+    "Issue": "Upload option not working Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "50e0158d-37fd-4629-8b39-22e03210898f",
+    "Issue": "Mismatch in Aadhaar and account name How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "8632b8d4-7a73-433c-9344-90edc5b87028",
+    "Issue": "Funds not credited despite approval How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "456a7297-6bb8-4748-85c0-00dcba8bed46",
+    "Issue": "Upload option not working When will funds be credited?"
+  },
+  {
+    "Issue_Id": "0edf2a72-307c-47bc-8191-54230759c32f",
+    "Issue": "Mismatch in Aadhaar and account name Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "a0dc27e9-0424-43f6-8137-9b3aaa8ea41d",
+    "Issue": "Duplicate application found I forgot my registration number."
+  },
+  {
+    "Issue_Id": "f32b4e78-35db-4add-bb2b-79617ab70d5f",
+    "Issue": "Delay in screening process Can I change project type?"
+  },
+  {
+    "Issue_Id": "502d0003-736a-40e2-8e2e-063b6ff130e5",
+    "Issue": "Application rejected without reason Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "515e6d15-6bfb-4d1a-b53e-25d900c40100",
+    "Issue": "Duplicate application found Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "2037cc89-42e2-41df-8173-ce4af82935b5",
+    "Issue": "Mismatch in Aadhaar and account name Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "c7f64b7b-d898-43b4-af63-297c7f63b94c",
+    "Issue": "Funds not credited despite approval When will funds be credited?"
+  },
+  {
+    "Issue_Id": "f73e8b21-5922-4e7f-9050-97d7d6f9fc61",
+    "Issue": "Mismatch in Aadhaar and account name I forgot my registration number."
+  },
+  {
+    "Issue_Id": "dbdde526-76e7-471e-a4d0-a197eadfb5bc",
+    "Issue": "Form not available in local office Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "30d20690-33c7-46e5-b69d-53ed7908ec3b",
+    "Issue": "Local officer not responding Can I change project type?"
+  },
+  {
+    "Issue_Id": "e3f18de7-beb3-44ed-a954-1f7ff18194a5",
+    "Issue": "Delay in screening process What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "88a6533e-929f-420e-996b-100e4061a00c",
+    "Issue": "Local officer not responding Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "e33d5eac-81ef-47e4-975f-7c27f5961658",
+    "Issue": "Delay in screening process Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "2ee12955-52e6-436f-be7c-687ab38afb17",
+    "Issue": "Delay in payment verification What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "bebe90e7-f077-4ea0-b6e3-abfb73648572",
+    "Issue": "Local officer not responding I forgot my registration number."
+  },
+  {
+    "Issue_Id": "29da40b1-88ca-4f9e-b64e-537c5609097d",
+    "Issue": "Upload option not working Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "3f21f8d7-467b-461a-bd76-698e1b9c6d68",
+    "Issue": "Form not available in local office How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "9db44a8e-3e3a-4c5e-b6a0-5a3a8c6a0575",
+    "Issue": "Mismatch in Aadhaar and account name What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "b21f6130-7338-4285-8992-eb1193448452",
+    "Issue": "Delay in screening process Can I change project type?"
+  },
+  {
+    "Issue_Id": "b9f12edf-878a-4ca8-9d48-7bff5c1163c1",
+    "Issue": "Duplicate application found Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "126b3503-ca80-4849-b2bc-853b09036dd7",
+    "Issue": "Local officer not responding When will funds be credited?"
+  },
+  {
+    "Issue_Id": "77be493e-27eb-4299-877d-402b4a0f8a09",
+    "Issue": "Upload option not working Can I change project type?"
+  },
+  {
+    "Issue_Id": "4b8cf527-d972-49ee-862d-4d91119b6f09",
+    "Issue": "Delay in screening process I forgot my registration number."
+  },
+  {
+    "Issue_Id": "f0e101fb-1878-480b-aa18-c8883ba9ef42",
+    "Issue": "Application rejected without reason What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "d279d6c8-a699-4779-8bac-12089dfe6766",
+    "Issue": "Delay in screening process When will funds be credited?"
+  },
+  {
+    "Issue_Id": "502d5726-026e-45ba-8627-97823438638e",
+    "Issue": "Bank details mismatch What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "c3f0ff10-685a-4179-b7b4-ece5588ada73",
+    "Issue": "Form not available in local office When will funds be credited?"
+  },
+  {
+    "Issue_Id": "379521e1-c837-4345-a08b-18a41cfa955f",
+    "Issue": "Application rejected without reason Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "27c458cc-7f21-4c82-90fd-cda8a0ee0392",
+    "Issue": "Delay in screening process What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "0d949677-4f2c-4541-ae9b-a0a57dc5120d",
+    "Issue": "Mismatch in Aadhaar and account name When will funds be credited?"
+  },
+  {
+    "Issue_Id": "87c1ec12-4cc3-48b6-98e7-6b885ae8b064",
+    "Issue": "Bank details mismatch Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "c049c9fa-5b22-43ca-be67-c85f745cd1d0",
+    "Issue": "Bank details mismatch Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "990f2a41-8e72-45cf-82cb-0c0c359b8aea",
+    "Issue": "Delay in payment verification I forgot my registration number."
+  },
+  {
+    "Issue_Id": "44db1079-e0ee-47e0-9650-f424fb6fce53",
+    "Issue": "Bank details mismatch How to apply for second installment?"
+  },
+  {
+    "Issue_Id": "5418e9d1-8991-4a25-a3e7-dcf9dc89b7ea",
+    "Issue": "Duplicate application found I forgot my registration number."
+  },
+  {
+    "Issue_Id": "1809571d-190c-4f0d-b51c-d3458460a294",
+    "Issue": "Bank details mismatch Are construction grants separate?"
+  },
+  {
+    "Issue_Id": "a2475804-f509-4416-997f-1597b0bb43a0",
+    "Issue": "Funds not credited despite approval Is the grant available for widows?"
+  },
+  {
+    "Issue_Id": "2f89b772-e79d-40d1-9f21-b06f570f9577",
+    "Issue": "Application rejected without reason What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "24d88fdb-4567-4db1-a623-c5c34c19a06a",
+    "Issue": "Duplicate application found Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "52d106e1-3e36-44dc-9a46-3192fbc2b894",
+    "Issue": "Upload option not working I forgot my registration number."
+  },
+  {
+    "Issue_Id": "c1c39555-aaa0-472b-93cd-e5d99eabad0b",
+    "Issue": "Upload option not working Do I need to reapply next year?"
+  },
+  {
+    "Issue_Id": "226414b2-b005-45bd-8bf7-94aaff35ba65",
+    "Issue": "Bank details mismatch Can I change project type?"
+  },
+  {
+    "Issue_Id": "b2a1c537-b978-493a-b805-3a5c9ec8f009",
+    "Issue": "Duplicate application found Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "cb3addd9-78f0-4af7-88e0-185c866cdd97",
+    "Issue": "Mismatch in Aadhaar and account name Can I edit nominee name?"
+  },
+  {
+    "Issue_Id": "e8818166-81b3-4cd8-acb5-1bc4813f637f",
+    "Issue": "Funds not credited despite approval What documents are needed for submission?"
+  },
+  {
+    "Issue_Id": "dfe80393-2525-4e84-9b41-724f26f8b01a",
+    "Issue": "Application rejected without reason When will funds be credited?"
+  },
+  {
+    "Issue_Id": "9a681d9a-5f6d-4c12-9e9a-8b73557eb781",
+    "Issue": "Mismatch in Aadhaar and account name When will funds be credited?"
+  },
+  {
+    "Issue_Id": "8e274738-b19d-4de6-aed2-9403c67c562c",
+    "Issue": "Funds not credited despite approval Where to submit bank passbook?"
+  },
+  {
+    "Issue_Id": "2b974026-afaa-4de3-b50d-eef0fe7f747d",
+    "Issue": "Bank details mismatch When will funds be credited?"
+  }
+]
