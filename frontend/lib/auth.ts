@@ -1,5 +1,5 @@
 // Real auth API integration utilities
-import axios from "axios";
+import { api } from "./api";
 
 // Frontend uses: 'ministry', 'state', 'ia', 'pacc', 'sna', 'beneficiary'
 export type BackendUserRole =
@@ -28,11 +28,6 @@ export interface User {
 }
 
 const AUTH_STORAGE_KEY = "sahay_auth_user";
-
-const api = axios.create({
-  baseURL: process.env.NEXT_PUBLIC_API_BASE || "/api",
-  withCredentials: true,
-});
 
 function mapRole(role: BackendUserRole | UserRole): UserRole {
   switch (role) {

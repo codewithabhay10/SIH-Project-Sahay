@@ -1,9 +1,9 @@
 "use client";
 
-import React, { useState, useMemo, useEffect } from "react";
+import React, { useState, useEffect } from "react";
 import { useParams } from "next/navigation";
 import DashboardLayout from "@/components/dashboard-layout";
-import axios from "axios";
+import { api } from "@/lib/api";
 import {
   FolderOpen,
   Wallet,
@@ -85,13 +85,6 @@ export default function StateDashboard() {
   const [projects, setProjects] = useState<Project[]>([]);
   const [loading, setLoading] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
-
-  const api = useMemo(() => {
-    return axios.create({
-      baseURL: process.env.NEXT_PUBLIC_API_BASE || "/api",
-      withCredentials: true,
-    });
-  }, []);
 
   useEffect(() => {
     const formatAmount = (amount: number | undefined) => {

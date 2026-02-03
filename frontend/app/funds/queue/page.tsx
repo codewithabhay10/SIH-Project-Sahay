@@ -7,12 +7,7 @@ import ReleaseFundsModal from '@/components/release-funds-modal';
 import { fundQueueProposals, filterProposals } from '@/lib/fund-queue-mock-data';
 import { FundProposal, PACCDecision, UCStatus, ProposalStatus } from '@/lib/types';
 import DashboardLayout from '@/components/dashboard-layout';
-import axios from 'axios';
-
-const api = axios.create({
-  baseURL: process.env.NEXT_PUBLIC_API_BASE || 'http://localhost:8000',
-  withCredentials: true,
-});
+import { api } from '@/lib/api';
 
 interface BackendProposal {
   _id: string;

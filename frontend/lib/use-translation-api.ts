@@ -19,7 +19,7 @@ interface TranslationResponse {
 
 const cache: TranslationCache = {};
 
-const API_BASE_URL = 'http://localhost:8000';
+const API_BASE_URL = process.env.NEXT_PUBLIC_TRANSLATION_API || 'http://localhost:8000';
 
 export function useTranslationApi() {
   const [language, setLanguage] = useState('en');

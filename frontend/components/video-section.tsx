@@ -77,6 +77,12 @@ export default function VideoSection() {
           >
             {getTranslation(language, 'video.description')}
           </p>
+          <p 
+            className="text-xs md:text-sm mt-2 max-w-2xl mx-auto"
+            style={{ color: "rgb(94, 64, 0)", opacity: 0.6 }}
+          >
+            Click on the video to see different intervals
+          </p>
         </div>
 
         {/* Video Container */}

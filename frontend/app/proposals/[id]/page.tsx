@@ -1,9 +1,9 @@
 "use client";
 
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useParams, useRouter } from "next/navigation";
 import DashboardLayout from "@/components/dashboard-layout";
-import axios from "axios";
+import { api } from "@/lib/api";
 import {
   ArrowLeft,
   FileText,
@@ -125,13 +125,6 @@ export default function ProposalReviewPage() {
   const proposalId = params.id as string;
   const [loading, setLoading] = useState<boolean>(false);
   const [error, setError] = useState<string | null>(null);
-
-  const api = useMemo(() => {
-    return axios.create({
-      baseURL: process.env.NEXT_PUBLIC_API_BASE || "/api",
-      withCredentials: true,
-    });
-  }, []);
 
   const [activeTab, setActiveTab] = useState<"details" | "documents">(
     "details"

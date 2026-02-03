@@ -6,6 +6,7 @@ import IndiaMapHeatmap from "@/components/india-map-heatmap";
 import TimeSeriesChart from "@/components/time-series-chart";
 import DonutChart from "@/components/donut-chart";
 import DashboardLayout from "@/components/dashboard-layout";
+import { API_BASE_URL } from "@/lib/api";
 import router from "next/router";
 
 interface TooltipProps {
@@ -100,8 +101,8 @@ export default function CentralDashboard() {
     const fetchCentral = async () => {
       try {
         setLoadingCentral(true);
-        // use backend host/port used in development; change if needed in production
-        const res = await fetch("http://localhost:1604/api/central");
+        // use backend host/port from environment variable
+        const res = await fetch(`${API_BASE_URL}/central`);
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const body = await res.json();
         const central = body?.central || {};

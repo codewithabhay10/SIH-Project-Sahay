@@ -1,6 +1,7 @@
 "use client";
 
 import { useState } from "react";
+import { API_BASE_URL } from "@/lib/api";
 import {
   Upload,
   FileText,
@@ -174,10 +175,8 @@ export default function IncomeCertificateUpload() {
       
       setAnalyzingStep("Verifying authenticity...");
       
-      // API base can be configured via `NEXT_PUBLIC_API_BASE` env var.
-      // Defaults to the backend's default port (8080) used in `backend/.env`.
-      const API_BASE = process.env.NEXT_PUBLIC_API_BASE || "http://localhost:1604/api";
-      const res = await fetch(`${API_BASE}/check/doc-check`, {
+      // Use centralized API_BASE_URL from lib/api.ts
+      const res = await fetch(`${API_BASE_URL}/check/doc-check`, {
         method: "POST",
         body: formData,
       });

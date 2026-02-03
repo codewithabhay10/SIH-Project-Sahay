@@ -30,7 +30,7 @@ type Language = {
   flag: string;
 };
 
-const API_BASE_URL = "http://127.0.0.1:8000";
+const API_BASE_URL = process.env.NEXT_PUBLIC_CHATBOT_API || "http://localhost:8000";
 
 // Languages supported
 const LANGUAGES: Language[] = [

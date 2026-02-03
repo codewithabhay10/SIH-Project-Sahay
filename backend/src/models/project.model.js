@@ -35,7 +35,7 @@ const projectSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-projectSchema.index({ project_id: 1 });
+// project_id already has unique: true which creates an index
 
 const Project =
   mongoose.models.Project || mongoose.model("Project", projectSchema);

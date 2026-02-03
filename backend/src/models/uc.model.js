@@ -33,7 +33,7 @@ const ucSchema = new mongoose.Schema(
   { timestamps: true }
 );
 
-ucSchema.index({ ucNumber: 1 });
+// ucNumber already has unique: true which creates an index
 ucSchema.index({ iaId: 1 });
 ucSchema.index({ projectId: 1 });
 ucSchema.index({ status: 1 });

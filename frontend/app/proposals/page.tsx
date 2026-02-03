@@ -1,9 +1,9 @@
 "use client";
 
-import React, { useEffect, useMemo, useState } from "react";
+import React, { useEffect, useState } from "react";
 import { useRouter } from "next/navigation";
 import DashboardLayout from "@/components/dashboard-layout";
-import axios from "axios";
+import { api } from "@/lib/api";
 
 type ApiProposal = {
   _id: string;
@@ -35,13 +35,6 @@ export default function ProposalsPage() {
   const [error, setError] = useState<string | null>(null);
   const [starredProposals, setStarredProposals] = useState<string[]>([]);
 
-  const api = useMemo(() => {
-    return axios.create({
-      baseURL: process.env.NEXT_PUBLIC_API_BASE || "/api",
-      withCredentials: true,
-    });
-  }, []);
-
   useEffect(() => {
     const fetchProposals = async () => {
       try {
@@ -62,7 +55,7 @@ export default function ProposalsPage() {
       }
     };
     fetchProposals();
-  }, [api]);
+  }, []);
 
   useEffect(() => {
     const starred = localStorage.getItem('starredProposals');

@@ -41,9 +41,7 @@ const userSchema = new Schema(
   }
 );
 
-// add an index to ensure unique email and phone at DB level
-userSchema.index({ email: 1 }, { unique: true });
-userSchema.index({ phone: 1 }, { unique: true });
+// unique: true in field definitions already creates indexes
 
 const User = model("User", userSchema);
 

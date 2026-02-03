@@ -2,6 +2,7 @@
 
 import React, { useState } from "react";
 import DashboardLayout from "@/components/dashboard-layout";
+import { API_BASE_URL } from "@/lib/api";
 import {
   ProposalFormData,
   BudgetLineItem,
@@ -16,7 +17,7 @@ import {
 } from "@/lib/types";
 
 export default function SubmitProposalPage() {
-  const API_BASE = process.env.NEXT_PUBLIC_API_BASE || "http://localhost:1604/api";
+  const API_BASE = API_BASE_URL;
   const getToken = () =>
     typeof window !== "undefined" ? localStorage.getItem("token") || "" : "";
 
