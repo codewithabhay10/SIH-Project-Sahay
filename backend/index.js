@@ -8,7 +8,7 @@ import cors from "cors";
 import cookieParser from "cookie-parser";
 
 // Custom utility to connect to MongoDB
-import connectDB from "./db/connectDB.js";
+import connectDB from "./src/db/connectDB.js";
 
 // Initialize express app
 const app = express();
@@ -39,12 +39,12 @@ app.use(express.static("public"));
 // Route Definitions
 // ---------------------------
 // Mount API route handlers
-import userRoutes from "./routes/users.route.js";
-import proposalRoutes from "./routes/proposal.route.js";
-import projectRoutes from "./routes/project.route.js";
-import centralRoutes from "./routes/central.route.js";
-import docCheckRoutes from "./routes/test_docs.routes.js";
-import ucRoutes from "./routes/uc.route.js";
+import userRoutes from "./src/routes/users.route.js";
+import proposalRoutes from "./src/routes/proposal.route.js";
+import projectRoutes from "./src/routes/project.route.js";
+import centralRoutes from "./src/routes/central.route.js";
+import docCheckRoutes from "./src/routes/test_docs.routes.js";
+import ucRoutes from "./src/routes/uc.route.js";
 
 app.use("/api/users", userRoutes);
 app.use("/api/proposals", proposalRoutes);
