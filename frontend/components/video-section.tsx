@@ -101,7 +101,7 @@ export default function VideoSection() {
             preload="metadata"
             onClick={togglePlay}
           >
-            <source src="/WhatsApp Video 2025-12-09 at 17.59.45_c3e09a07.mp4#t=11" type="video/mp4" />
+            <source src="https://drive.google.com/uc?export=download&id=1oCu6-U29nZ78AX_ZRd9FleedX2dQ8DG3" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
 
