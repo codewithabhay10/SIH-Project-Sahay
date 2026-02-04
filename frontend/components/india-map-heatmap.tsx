@@ -1,17 +1,13 @@
 "use client";
 
-import React, { useState } from "react";
-import {
-  ComposableMap,
-  Geographies,
-  Geography,
-} from "react-simple-maps";
+import React, { useState, useEffect, useRef } from "react";
+import * as d3Geo from "d3-geo";
 
-// India TopoJSON URL (using open source data)
-const INDIA_TOPO_JSON =
+// India GeoJSON URL
+const INDIA_GEO_JSON =
   "https://gist.githubusercontent.com/jbrobst/56c13bbbf9d97d187fea01ca62ea5112/raw/e388c4cae20aa53cb5090210a42ebb9b765c0a36/india_states.geojson";
 
-// Sample data for states - matching exact names from TopoJSON
+// Sample data for states - matching exact names from GeoJSON
 const stateData: Record<string, {
   fundsReleased: number;
   projectsCount: number;
@@ -178,79 +174,104 @@ interface TooltipData {
   utilizationRate: number;
 }
 
+interface GeoFeature {
+  type: string;
+  properties: {
+    ST_NM?: string;
+    NAME_1?: string;
+    name?: string;
+  };
+  geometry: object;
+}
+
+interface GeoJSON {
+  type: string;
+  features: GeoFeature[];
+}
+
 export default function IndiaMapHeatmap() {
   const [tooltip, setTooltip] = useState<TooltipData | null>(null);
   const [tooltipPosition, setTooltipPosition] = useState({ x: 0, y: 0 });
+  const [geoData, setGeoData] = useState<GeoJSON | null>(null);
+  const [hoveredState, setHoveredState] = useState<string | null>(null);
+  const svgRef = useRef<SVGSVGElement>(null);
+
+  useEffect(() => {
+    fetch(INDIA_GEO_JSON)
+      .then((response) => response.json())
+      .then((data) => setGeoData(data))
+      .catch((error) => console.error("Error loading GeoJSON:", error));
+  }, []);
+
+  if (!geoData) {
+    return (
+      <div className="relative w-full h-[500px] bg-gray-50 rounded-lg overflow-hidden flex items-center justify-center">
+        <div className="text-gray-500">Loading map...</div>
+      </div>
+    );
+  }
+
+  // Create projection
+  const projection = d3Geo.geoMercator()
+    .center([78.5, 22.5])
+    .scale(850)
+    .translate([400, 250]);
+
+  const pathGenerator = d3Geo.geoPath().projection(projection);
 
   return (
     <div className="relative w-full h-[500px] bg-gray-50 rounded-lg overflow-hidden flex items-center justify-center">
-      <ComposableMap
-        projection="geoMercator"
-        projectionConfig={{
-          scale: 850,
-          center: [78.5, 22.5],
-        }}
+      <svg
+        ref={svgRef}
         width={800}
         height={500}
-        style={{
-          width: "100%",
-          height: "100%",
-        }}
+        style={{ width: "100%", height: "100%" }}
+        viewBox="0 0 800 500"
       >
-        <Geographies geography={INDIA_TOPO_JSON}>
-          {({ geographies }) =>
-            geographies.map((geo) => {
-              const stateName = geo.properties.ST_NM || geo.properties.NAME_1 || geo.properties.name;
-              const data = stateData[stateName];
-              const fillColor = data
-                ? getColorByUtilization(data.utilizationRate)
-                : "#E5E7EB";
+        {geoData.features.map((feature, index) => {
+          const stateName = feature.properties.ST_NM || feature.properties.NAME_1 || feature.properties.name || "";
+          const data = stateData[stateName];
+          const fillColor = data
+            ? getColorByUtilization(data.utilizationRate)
+            : "#E5E7EB";
+          const isHovered = hoveredState === stateName;
 
-              return (
-                <Geography
-                  key={geo.rsmKey}
-                  geography={geo}
-                  fill={fillColor}
-                  stroke="#FFFFFF"
-                  strokeWidth={0.5}
-                  style={{
-                    default: { outline: "none" },
-                    hover: { 
-                      fill: fillColor, 
-                      stroke: "#2C3E50", 
-                      strokeWidth: 1.5,
-                      outline: "none",
-                      opacity: 0.8,
-                    },
-                    pressed: { outline: "none" },
-                  }}
-                  onMouseEnter={(event) => {
-                    if (data) {
-                      setTooltip({
-                        name: stateName,
-                        ...data,
-                      });
-                      setTooltipPosition({
-                        x: event.clientX,
-                        y: event.clientY,
-                      });
-                    }
-                  }}
-                  onMouseMove={(event) => {
-                    setTooltipPosition({
-                      x: event.clientX,
-                      y: event.clientY,
-                    });
-                  }}
-                  onMouseLeave={() => {
-                    setTooltip(null);
-                  }}
-                />
-              );
-            })
-          }
-        </Geographies>
-      </ComposableMap>
+          return (
+            <path
+              key={index}
+              d={pathGenerator(feature as unknown as d3Geo.GeoPermissibleObjects) || ""}
+              fill={fillColor}
+              stroke={isHovered ? "#2C3E50" : "#FFFFFF"}
+              strokeWidth={isHovered ? 1.5 : 0.5}
+              opacity={isHovered ? 0.8 : 1}
+              style={{ cursor: data ? "pointer" : "default", transition: "all 0.2s" }}
+              onMouseEnter={(event) => {
+                setHoveredState(stateName);
+                if (data) {
+                  setTooltip({
+                    name: stateName,
+                    ...data,
+                  });
+                  setTooltipPosition({
+                    x: event.clientX,
+                    y: event.clientY,
+                  });
+                }
+              }}
+              onMouseMove={(event) => {
+                setTooltipPosition({
+                  x: event.clientX,
+                  y: event.clientY,
+                });
+              }}
+              onMouseLeave={() => {
+                setHoveredState(null);
+                setTooltip(null);
+              }}
+            />
+          );
+        })}
+      </svg>
 
       {/* Tooltip */}
       {tooltip && (

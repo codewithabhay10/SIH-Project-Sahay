@@ -1,13 +1,12 @@
 "use client";
 import React, { useEffect, useState } from "react";
 import Link from "next/link";
-import Sidebar from "@/components/sidebar";
 import IndiaMapHeatmap from "@/components/india-map-heatmap";
 import TimeSeriesChart from "@/components/time-series-chart";
 import DonutChart from "@/components/donut-chart";
 import DashboardLayout from "@/components/dashboard-layout";
 import { API_BASE_URL } from "@/lib/api";
-import router from "next/router";
+
 
 interface TooltipProps {
   text: string;
