@@ -12,6 +12,9 @@ const nextConfig = {
   images: {
     unoptimized: true,
   },
+  experimental: {
+    allowDevelopmentBuild: true,
+  },
   output: "standalone",
   outputFileTracingRoot: __dirname,
 };
