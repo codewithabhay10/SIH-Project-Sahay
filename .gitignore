@@ -56,7 +56,7 @@ key.txt
 yarn-error.log*
 
 # Large files
-*.mp4
+# *.mp4  # Commented out - using Git LFS for video
 *.mov
 *.avi
 *.mkv

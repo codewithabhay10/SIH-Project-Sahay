@@ -101,7 +101,7 @@ export default function VideoSection() {
             preload="metadata"
             onClick={togglePlay}
           >
-            <source src="https://drive.google.com/uc?export=download&id=1oCu6-U29nZ78AX_ZRd9FleedX2dQ8DG3" type="video/mp4" />
+            <source src="/sahay-demo.mp4#t=11" type="video/mp4" />
             Your browser does not support the video tag.
           </video>
 
